@@ -18,12 +18,12 @@ $gray: #555;
 $gray-light: #777;
 $text-muted: $gray-light;
 
-$brand-primary: #175DDC;
+$brand-primary: #81c843;
 $brand-danger: #dd4b39;
-$brand-success: #00a65a;
+$brand-success: #1b5e20;
 $brand-info: #555555;
 $brand-warning: #bf7e16;
-$brand-primary-accent: #1252A3;
+$brand-primary-accent: #2e7d32;
 
 $background-color: #f0f0f0;
 
@@ -124,14 +124,14 @@ $themes: (
         buttonColor: #e0e0e0,
         buttonPrimaryColor: #46ace7,
         buttonDangerColor: #ff3e24,
-        primaryColor: #52bdfb,
-        primaryAccentColor: #3ea1da,
+        primaryColor: #81c843,
+        primaryAccentColor: #2e7d32,
         dangerColor: #ff3e24,
         successColor: $brand-success,
         infoColor: $brand-info,
         warningColor: $brand-warning,
         logoSuffix: 'white',
-        passwordNumberColor: #52bdfb,
+        passwordNumberColor: #81c843,
         passwordSpecialColor: #ff7c70,
         calloutBorderColor: #111111,
         calloutBackgroundColor: #3d3d3d,

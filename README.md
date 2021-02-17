@@ -1,6 +1,26 @@
-[![appveyor build](https://ci.appveyor.com/api/projects/status/github/bitwarden/browser?branch=master&svg=true)](https://ci.appveyor.com/project/bitwarden/browser)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/bitwarden-browser/localized.svg)](https://crowdin.com/project/bitwarden-browser)
-[![Join the chat at https://gitter.im/bitwarden/Lobby](https://badges.gitter.im/bitwarden/Lobby.svg)](https://gitter.im/bitwarden/Lobby)
+# Greenwarden
+
+A fork of the Bitwarden browser extension, which only serves the purpose so that I can install two seperate versions of it.
+Because this is currently the only way to use two Bitwarden servers at the same time.
+
+This will be abandonned as soon as Bitwarden implements the "Client Profiles" feature.
+
+## Why Green?
+
+To differentiate my work and my private Bitwarden extensions I had to change its color. I went with green because my companies CI is green as well.
+
+## How to use
+
+First you need to build the project like this:
+
+```bash
+$ git clone git@github.com:atomicptr/greenwarden.git
+$ cd greenwarden
+$ npm install
+$ npm run build
+```
+
+Then you have to go to your Browser and install an extension from a directory which in this case will be the build directory.
 
 # Bitwarden Browser Extension
 

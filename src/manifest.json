@@ -5,8 +5,8 @@
   "version": "1.48.1",
   "description": "__MSG_extDesc__",
   "default_locale": "en",
-  "author": "Bitwarden Inc.",
-  "homepage_url": "https://bitwarden.com",
+  "author": "atomicptr",
+  "homepage_url": "https://github.com/atomicptr/greenwarden",
   "icons": {
     "16": "images/icon16.png",
     "32": "images/icon32.png",
@@ -136,7 +136,7 @@
     }
   },
   "sidebar_action": {
-    "default_title": "Bitwarden",
+    "default_title": "Bitwarden Green",
     "default_panel": "popup/index.html?uilocation=sidebar",
     "default_icon": "images/icon19.png"
   }
