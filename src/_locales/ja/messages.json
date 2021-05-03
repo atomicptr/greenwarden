@@ -1,13 +1,13 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - 無料パスワードマネージャー",
     "description": "Extension name"
   },
   "extDesc": {
-    "message": "Bitwarden はあらゆる端末で使える、安全な無料パスワードマネージャーです。",
+    "message": "Greenwarden はあらゆる端末で使える、安全な無料パスワードマネージャーです。",
     "description": "Extension description"
   },
   "loginOrCreateNewAccount": {
@@ -191,7 +191,7 @@
     "message": "ログインのために強固なユニークパスワードを自動的に生成します。"
   },
   "bitWebVault": {
-    "message": "Bitwarden ウェブ保管庫"
+    "message": "Greenwarden ウェブ保管庫"
   },
   "importItems": {
     "message": "アイテムのインポート"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "このパスワードを Bitwarden に保存しますか？"
+    "message": "このパスワードを Greenwarden に保存しますか？"
   },
   "notificationAddSave": {
     "message": "保存する"
@@ -564,7 +564,7 @@
     "message": "ウェブサイトでパスワードを変更したことを検出したとき、保管庫のパスワードを更新するために自動的に「パスワードの変更通知」を表示します。"
   },
   "notificationChangeDesc": {
-    "message": "Bitwarden でこのパスワードを更新しますか？"
+    "message": "Greenwarden でこのパスワードを更新しますか？"
   },
   "notificationChangeSave": {
     "message": "今すぐ更新する"
@@ -625,7 +625,7 @@
     "message": "保管庫の共有"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwardenでは、組織アカウントを使用して保管庫を他の人と共有できます。 詳細はbitwarden.comのウェブサイトをご覧ください。"
+    "message": "Greenwardenでは、組織アカウントを使用して保管庫を他の人と共有できます。 詳細はbitwarden.comのウェブサイトをご覧ください。"
   },
   "shareItem": {
     "message": "アイテムを共有する"
@@ -733,7 +733,7 @@
     "message": "あなたはプレミアム会員です！"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Bitwarden を支援いただき、ありがとうございます。"
+    "message": "Greenwarden を支援いただき、ありがとうございます。"
   },
   "premiumPrice": {
     "message": "全部でなんと$PRICE$/年だけ！",
@@ -850,7 +850,7 @@
     "message": "セルフホスティング環境"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "セルフホスティングしている Bitwarden のベース URL を指定してください。"
+    "message": "セルフホスティングしている Greenwarden のベース URL を指定してください。"
   },
   "customEnvironment": {
     "message": "カスタム環境"
@@ -1232,7 +1232,7 @@
     "message": "脆弱なマスターパスワード"
   },
   "weakMasterPasswordDesc": {
-    "message": "設定されたマスターパスワードの強度は脆弱です。Bitwarden アカウントを適切に保護するために、強力なマスターパスワード（またはパスフレーズ）を使用すべきです。本当にこのマスターパスワードを使用しますか？"
+    "message": "設定されたマスターパスワードの強度は脆弱です。Greenwarden アカウントを適切に保護するために、強力なマスターパスワード（またはパスフレーズ）を使用すべきです。本当にこのマスターパスワードを使用しますか？"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "PIN でロック解除"
   },
   "setYourPinCode": {
-    "message": "Bitwarden のロックを解除するための PIN コードを設定します。アプリから完全にログアウトすると、PIN 設定はリセットされます。"
+    "message": "Greenwarden のロックを解除するための PIN コードを設定します。アプリから完全にログアウトすると、PIN 設定はリセットされます。"
   },
   "pinRequired": {
     "message": "PIN コードが必要です。"
@@ -1263,7 +1263,7 @@
     "message": "デスクトップからの確認待ち"
   },
   "awaitDesktopDesc": {
-    "message": "ブラウザの生体認証を有効にするには、Bitwarden デスクトップアプリの生体認証を使用してください。"
+    "message": "ブラウザの生体認証を有効にするには、Greenwarden デスクトップアプリの生体認証を使用してください。"
   },
   "lockWithMasterPassOnRestart": {
     "message": "ブラウザー再起動時にマスターパスワードでロック"
@@ -1400,13 +1400,13 @@
     "message": "ブラウザ統合が有効になっていません"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Bitwarden デスクトップアプリでブラウザ統合が有効になっていません。デスクトップアプリの設定で有効にしてください。"
+    "message": "Greenwarden デスクトップアプリでブラウザ統合が有効になっていません。デスクトップアプリの設定で有効にしてください。"
   },
   "startDesktopTitle": {
-    "message": "Bitwarden デスクトップアプリを起動"
+    "message": "Greenwarden デスクトップアプリを起動"
   },
   "startDesktopDesc": {
-    "message": "この機能を使用するには、Bitwarden デスクトップアプリを起動してください。"
+    "message": "この機能を使用するには、Greenwarden デスクトップアプリを起動してください。"
   },
   "errorEnableBiometricTitle": {
     "message": "生体認証を有効にできません"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "組織のポリシーにより、個人の保管庫へのアイテムの保存が制限されています。 所有権を組織に変更し、利用可能なコレクションから選択してください。"

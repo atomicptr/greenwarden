@@ -1,13 +1,13 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Безкоштовний менеджер паролів",
     "description": "Extension name"
   },
   "extDesc": {
-    "message": "Bitwarden - це захищений і безкоштовний менеджер паролів для всіх ваших пристроїв.",
+    "message": "Greenwarden - це захищений і безкоштовний менеджер паролів для всіх ваших пристроїв.",
     "description": "Extension description"
   },
   "loginOrCreateNewAccount": {
@@ -191,7 +191,7 @@
     "message": "Автоматичне генерування стійких, унікальних паролів."
   },
   "bitWebVault": {
-    "message": "Веб сховище Bitwarden"
+    "message": "Веб сховище Greenwarden"
   },
   "importItems": {
     "message": "Імпорт записів"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Чи повинен Bitwarden зберегти цей пароль?"
+    "message": "Чи повинен Greenwarden зберегти цей пароль?"
   },
   "notificationAddSave": {
     "message": "Так, зберегти"
@@ -564,7 +564,7 @@
     "message": "Сповіщення зміненого пароля автоматично запитує вас про оновлення пароля у сховищі, коли виявлено його зміну на вебсайті."
   },
   "notificationChangeDesc": {
-    "message": "Ви хочете оновити цей пароль в Bitwarden?"
+    "message": "Ви хочете оновити цей пароль в Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Так, оновити"
@@ -625,7 +625,7 @@
     "message": "Поділитися своїм сховищем"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden дозволяє вам надавати доступ до свого сховища іншим за допомогою облікового запису організації. Чи не бажаєте перейти на вебсайт bitwarden.com, щоб дізнатися більше?"
+    "message": "Greenwarden дозволяє вам надавати доступ до свого сховища іншим за допомогою облікового запису організації. Чи не бажаєте перейти на вебсайт bitwarden.com, щоб дізнатися більше?"
   },
   "shareItem": {
     "message": "Поділитися записом"
@@ -733,7 +733,7 @@
     "message": "У вас преміум статус!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Дякуємо за підтримку Bitwarden."
+    "message": "Дякуємо за підтримку Greenwarden."
   },
   "premiumPrice": {
     "message": "Всього лише $PRICE$ / за рік!",
@@ -850,7 +850,7 @@
     "message": "Середовище власного хостингу"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Вкажіть основну URL-адресу Bitwarden на вашому сервері."
+    "message": "Вкажіть основну URL-адресу Greenwarden на вашому сервері."
   },
   "customEnvironment": {
     "message": "Власне середовище"
@@ -1232,7 +1232,7 @@
     "message": "Слабкий головний пароль"
   },
   "weakMasterPasswordDesc": {
-    "message": "Обраний вами головний пароль є слабким. Для належного захисту свого облікового запису Bitwarden, вам слід використовувати надійний головний пароль (або парольну фразу). Ви впевнені, що хочете використати цей пароль?"
+    "message": "Обраний вами головний пароль є слабким. Для належного захисту свого облікового запису Greenwarden, вам слід використовувати надійний головний пароль (або парольну фразу). Ви впевнені, що хочете використати цей пароль?"
   },
   "pin": {
     "message": "PIN-код",
@@ -1242,7 +1242,7 @@
     "message": "Розблокування з PIN-кодом"
   },
   "setYourPinCode": {
-    "message": "Встановіть PIN-код для розблокування Bitwarden. Налаштування PIN-коду будуть скинуті, якщо ви коли-небудь повністю вийдете з програми."
+    "message": "Встановіть PIN-код для розблокування Greenwarden. Налаштування PIN-коду будуть скинуті, якщо ви коли-небудь повністю вийдете з програми."
   },
   "pinRequired": {
     "message": "Необхідний PIN-код."
@@ -1263,7 +1263,7 @@
     "message": "Очікується підтвердження з комп'ютера"
   },
   "awaitDesktopDesc": {
-    "message": "Для увімкнення біометрії в браузері, будь ласка, підтвердьте це у програмі Bitwarden на комп'ютері."
+    "message": "Для увімкнення біометрії в браузері, будь ласка, підтвердьте це у програмі Greenwarden на комп'ютері."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Блокувати головним паролем при перезапуску браузера"
@@ -1400,13 +1400,13 @@
     "message": "Інтеграція з браузером не увімкнена"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Інтеграція з браузером не увімкнена в програмі Bitwarden на комп'ютері. Увімкніть її в налаштуваннях програми на комп'ютері."
+    "message": "Інтеграція з браузером не увімкнена в програмі Greenwarden на комп'ютері. Увімкніть її в налаштуваннях програми на комп'ютері."
   },
   "startDesktopTitle": {
-    "message": "Запустити програму Bitwarden на комп'ютері"
+    "message": "Запустити програму Greenwarden на комп'ютері"
   },
   "startDesktopDesc": {
-    "message": "Для використання цієї функції необхідно запустити програму Bitwarden на комп'ютері."
+    "message": "Для використання цієї функції необхідно запустити програму Greenwarden на комп'ютері."
   },
   "errorEnableBiometricTitle": {
     "message": "Не вдається увімкнути біометрію"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "У зв'язку з корпоративною політикою, вам не дозволено зберігати записи до особистого сховища. Змініть налаштування власності на організацію та виберіть серед доступних збірок."

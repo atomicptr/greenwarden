@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - מנהל סיסמאות חינמי",
@@ -191,7 +191,7 @@
     "message": "צור אוטומטית סיסמאות חזקות ויחודיות עבור פרטי הכניסה שלך."
   },
   "bitWebVault": {
-    "message": "כספת באתר Bitwarden"
+    "message": "כספת באתר Greenwarden"
   },
   "importItems": {
     "message": "יבא פריטים"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "האם ברצונך שתוכנת Bitwarden תזכור סיסמה זו עבורך?"
+    "message": "האם ברצונך שתוכנת Greenwarden תזכור סיסמה זו עבורך?"
   },
   "notificationAddSave": {
     "message": "כן, שמור עכשיו"
@@ -564,7 +564,7 @@
     "message": "ההתראה \"סיסמה שונתה\" תופיע בכל פעם שהמערכת מזהה שינוי בסיסמה באתר אם פרטי הכניסה הקודמים שמורים שבכספת."
   },
   "notificationChangeDesc": {
-    "message": "האם ברצונך לעדכן את הסיסמה הזו בתוכנת Bitwarden?"
+    "message": "האם ברצונך לעדכן את הסיסמה הזו בתוכנת Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "כן, עדכן עכשיו"
@@ -625,7 +625,7 @@
     "message": "שתף את הכספת שלך"
   },
   "shareVaultConfirmation": {
-    "message": "תוכנת Bitwarden מאפשרת לך לשתף את הכספת עם אחרים בעזרת חשבון ארגון. האם תרצה לבקר באתר bitwarden.com ללמוד עוד בנושא זה?"
+    "message": "תוכנת Greenwarden מאפשרת לך לשתף את הכספת עם אחרים בעזרת חשבון ארגון. האם תרצה לבקר באתר bitwarden.com ללמוד עוד בנושא זה?"
   },
   "shareItem": {
     "message": "שתף פריט"
@@ -733,7 +733,7 @@
     "message": "אתה מנוי פרימיום!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "תודה על תמיכתך בBitwarden."
+    "message": "תודה על תמיכתך בGreenwarden."
   },
   "premiumPrice": {
     "message": "הכל רק ב$PRICE$ לשנה!",
@@ -850,7 +850,7 @@
     "message": "סביבה על שרתים מקומיים"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "הזן את כתובת השרת המקומי של Bitwarden."
+    "message": "הזן את כתובת השרת המקומי של Greenwarden."
   },
   "customEnvironment": {
     "message": "סביבה מותאמת אישית"
@@ -1242,7 +1242,7 @@
     "message": "בטל נעילה עם קוד PIN"
   },
   "setYourPinCode": {
-    "message": "קבע קוד PIN לביטול נעילת Bitwarden. הגדרות הPIN יאופסו אם תבצע יציאה מהתוכנה."
+    "message": "קבע קוד PIN לביטול נעילת Greenwarden. הגדרות הPIN יאופסו אם תבצע יציאה מהתוכנה."
   },
   "pinRequired": {
     "message": "נדרש קוד PIN."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "נעל בעזרת הסיסמה הראשית בהפעלת הדפדפן מחדש"
@@ -1400,13 +1400,13 @@
     "message": "אינטרציית דפדפן לא מאופשרת"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "לא ניתן להפעיל זיהוי ביומטרי"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

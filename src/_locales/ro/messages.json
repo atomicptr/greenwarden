@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Manager de parole gratuit",
@@ -191,7 +191,7 @@
     "message": "Generează automat parole unice și puternice pentru autentificările dvs."
   },
   "bitWebVault": {
-    "message": "Seif web Bitwarden"
+    "message": "Seif web Greenwarden"
   },
   "importItems": {
     "message": "Import elemente"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Ar trebui ca Bitwarden să memoreze această parolă pentru dvs.?"
+    "message": "Ar trebui ca Greenwarden să memoreze această parolă pentru dvs.?"
   },
   "notificationAddSave": {
     "message": "Da, salvează acum"
@@ -564,7 +564,7 @@
     "message": "\"Notificarea de modificare a parolei\" vă propune automat să actualizați o parolă din seif oricând se detectează că ați modificat-o pe un sait."
   },
   "notificationChangeDesc": {
-    "message": "Doriți să actualizați această parolă în Bitwarden?"
+    "message": "Doriți să actualizați această parolă în Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Da, actualizează acum"
@@ -625,7 +625,7 @@
     "message": "Partajare seif"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden vă permite să vă partajați seiful cu alte persoane utilizând un cont pentru organizații. Doriți să vizitați saitul bitwarden.com pentru a afla mai multe?"
+    "message": "Greenwarden vă permite să vă partajați seiful cu alte persoane utilizând un cont pentru organizații. Doriți să vizitați saitul bitwarden.com pentru a afla mai multe?"
   },
   "shareItem": {
     "message": "Partajare articol"
@@ -733,7 +733,7 @@
     "message": "Sunteți un membru Premium!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Vă mulțumim pentru susținerea Bitwarden."
+    "message": "Vă mulțumim pentru susținerea Greenwarden."
   },
   "premiumPrice": {
     "message": "Totul pentru doar %price% /an!",
@@ -850,7 +850,7 @@
     "message": "Mediu de găzduire personal"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Specificați URL-ul de bază al implementări Bitwarden găzduită local."
+    "message": "Specificați URL-ul de bază al implementări Greenwarden găzduită local."
   },
   "customEnvironment": {
     "message": "Mediu personalizat"
@@ -1232,7 +1232,7 @@
     "message": "Parolă principală slabă"
   },
   "weakMasterPasswordDesc": {
-    "message": "Parola principală aleasă este slabă. Ar trebui să folosiți o parolă principală (sau o frază de acces) puternică pentru a vă proteja corespunzător contul Bitwarden. Sigur doriți să folosiți această parolă principală?"
+    "message": "Parola principală aleasă este slabă. Ar trebui să folosiți o parolă principală (sau o frază de acces) puternică pentru a vă proteja corespunzător contul Greenwarden. Sigur doriți să folosiți această parolă principală?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Deblocare cu codul PIN"
   },
   "setYourPinCode": {
-    "message": "Stabiliți codul PIN de deblocare Bitwarden. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație."
+    "message": "Stabiliți codul PIN de deblocare Greenwarden. Setările codului PIN vor fi reinițializate dacă vă deconectați vreodată din aplicație."
   },
   "pinRequired": {
     "message": "Codul PIN este necesar."
@@ -1263,7 +1263,7 @@
     "message": "Se așteaptă confirmarea de la desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Vă rugăm să confirmați utilizarea biometriei în aplicația Bitwarden Desktop pentru a activa biometria pentru browser."
+    "message": "Vă rugăm să confirmați utilizarea biometriei în aplicația Greenwarden Desktop pentru a activa biometria pentru browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Blocare cu parola principală la repornirea browserului"
@@ -1400,13 +1400,13 @@
     "message": "Integrarea browserului nu este activată"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Integrarea browserului nu este activată în aplicația Bitwarden Desktop. Vă rugăm să o activați în setările din aplicația desktop."
+    "message": "Integrarea browserului nu este activată în aplicația Greenwarden Desktop. Vă rugăm să o activați în setările din aplicația desktop."
   },
   "startDesktopTitle": {
-    "message": "Porniți aplicația Bitwarden Desktop"
+    "message": "Porniți aplicația Greenwarden Desktop"
   },
   "startDesktopDesc": {
-    "message": "Aplicația Bitwarden Desktop trebuie pornită înainte de a putea utiliza această funcție."
+    "message": "Aplicația Greenwarden Desktop trebuie pornită înainte de a putea utiliza această funcție."
   },
   "errorEnableBiometricTitle": {
     "message": "Nu se poate activa biometria"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Datorită unei politici pentru întreprinderi, vă este restricționată salvarea de elemente în seiful dvs. personal. Schimbați opțiunea de proprietate la o organizație și alegeți dintre colecțiile disponibile."

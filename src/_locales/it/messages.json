@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Gestore di password gratuito",
@@ -191,7 +191,7 @@
     "message": "Genera automaticamente password complesse e uniche per i tuoi login."
   },
   "bitWebVault": {
-    "message": "Portachiavi Web Bitwarden"
+    "message": "Portachiavi Web Greenwarden"
   },
   "importItems": {
     "message": "Importa elementi"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Vuoi che Bitwarden ricordi questa password per te?"
+    "message": "Vuoi che Greenwarden ricordi questa password per te?"
   },
   "notificationAddSave": {
     "message": "Sì, Salva Ora"
@@ -564,7 +564,7 @@
     "message": "La \"notifica di cambio password\" chiede automaticamente di aggiornare la password di un account nel tuo portachiavi ogni qualvolta viene su un sito web."
   },
   "notificationChangeDesc": {
-    "message": "Vuoi aggiornare questa password in Bitwarden?"
+    "message": "Vuoi aggiornare questa password in Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Sì, Aggiorna Ora"
@@ -625,7 +625,7 @@
     "message": "Condividi Il Tuo Portachiavi"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden ti permette di condividere il tuo portachiavi con altri usando un account societario. Vuoi visitare il sito bitwarden.com per saperne di più?"
+    "message": "Greenwarden ti permette di condividere il tuo portachiavi con altri usando un account societario. Vuoi visitare il sito bitwarden.com per saperne di più?"
   },
   "shareItem": {
     "message": "Condividi elemento"
@@ -733,7 +733,7 @@
     "message": "Sei un membro premium!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Grazie per il tuo supporto a Bitwarden."
+    "message": "Grazie per il tuo supporto a Greenwarden."
   },
   "premiumPrice": {
     "message": "Il tutto per solo %price% all'anno!",
@@ -1232,7 +1232,7 @@
     "message": "Password Principale Debole"
   },
   "weakMasterPasswordDesc": {
-    "message": "La password principale che hai scelto è debole. È necessario utilizzare una password master forte (o una passphrase) per proteggere adeguatamente il tuo account Bitwarden. Sei sicuro di voler utilizzare questa password principale?"
+    "message": "La password principale che hai scelto è debole. È necessario utilizzare una password master forte (o una passphrase) per proteggere adeguatamente il tuo account Greenwarden. Sei sicuro di voler utilizzare questa password principale?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Sblocca con PIN"
   },
   "setYourPinCode": {
-    "message": "Imposta il tuo codice PIN per sbloccare Bitwarden. Le impostazioni del PIN verranno reimpostate se eri fuori dall'applicazione."
+    "message": "Imposta il tuo codice PIN per sbloccare Greenwarden. Le impostazioni del PIN verranno reimpostate se eri fuori dall'applicazione."
   },
   "pinRequired": {
     "message": "Il Codice PIN è necessario."
@@ -1263,7 +1263,7 @@
     "message": "In attesa di conferma dal desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Si prega di confermare utilizzando l'autenticazione biometrica nell'applicazione Bitwarden Desktop per abilitare l'autenticazione biometrica per il browser."
+    "message": "Si prega di confermare utilizzando l'autenticazione biometrica nell'applicazione Greenwarden Desktop per abilitare l'autenticazione biometrica per il browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Blocca con la password principale al riavvio del browser"
@@ -1400,13 +1400,13 @@
     "message": "L'integrazione del browser non è abilitata"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "L'integrazione del browser non è abilitata nell'applicazione Bitwarden Desktop. Si prega di attivarla nelle impostazioni all'interno dell'applicazione desktop."
+    "message": "L'integrazione del browser non è abilitata nell'applicazione Greenwarden Desktop. Si prega di attivarla nelle impostazioni all'interno dell'applicazione desktop."
   },
   "startDesktopTitle": {
-    "message": "Avvia l'applicazione desktop Bitwarden"
+    "message": "Avvia l'applicazione desktop Greenwarden"
   },
   "startDesktopDesc": {
-    "message": "L'applicazione Bitwarden Desktop deve essere avviata prima che questa funzione possa essere utilizzata."
+    "message": "L'applicazione Greenwarden Desktop deve essere avviata prima che questa funzione possa essere utilizzata."
   },
   "errorEnableBiometricTitle": {
     "message": "Impossibile abilitare l'autenticazione biometrica"
@@ -1442,7 +1442,7 @@
     "message": "Permesso non concesso"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Senza l'autorizzazione per comunicare con l'applicazione Bitwarden Desktop non è possibile fornire l'autenticazione biometrica nell'estensione del browser.\nRiprova di nuovo."
+    "message": "Senza l'autorizzazione per comunicare con l'applicazione Greenwarden Desktop non è possibile fornire l'autenticazione biometrica nell'estensione del browser.\nRiprova di nuovo."
   },
   "personalOwnershipSubmitError": {
     "message": "A causa di una policy aziendale, non è possibile salvare elementi nella tua cassaforte personale. Cambia l'opzione proprietà in un'organizzazione e scegli tra le raccolte disponibili."

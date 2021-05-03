@@ -1,13 +1,13 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Pengelola Sandi Gratis",
     "description": "Extension name"
   },
   "extDesc": {
-    "message": "Bitwarden adalah sebuah pengelola sandi yang aman dan gratis untuk semua perangkat Anda.",
+    "message": "Greenwarden adalah sebuah pengelola sandi yang aman dan gratis untuk semua perangkat Anda.",
     "description": "Extension description"
   },
   "loginOrCreateNewAccount": {
@@ -191,7 +191,7 @@
     "message": "Secara otomatis membuat sandi yang kuat dan unik untuk info masuk Anda."
   },
   "bitWebVault": {
-    "message": "Brankas Web Bitwarden"
+    "message": "Brankas Web Greenwarden"
   },
   "importItems": {
     "message": "Impor Item"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Haruskah Bitwarden mengingat sandi ini untuk Anda?"
+    "message": "Haruskah Greenwarden mengingat sandi ini untuk Anda?"
   },
   "notificationAddSave": {
     "message": "Ya, Simpan Sekarang"
@@ -564,7 +564,7 @@
     "message": "\"Notifikasi Perubahan Sandi\" secara otomatis akan meminta Anda untuk memperbarui password login di vault Anda ketika mendeteksi bahwa Anda telah mengubahnya lewat situs web."
   },
   "notificationChangeDesc": {
-    "message": "Apakah Anda ingin memperbarui sandi ini di Bitwarden?"
+    "message": "Apakah Anda ingin memperbarui sandi ini di Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Ya, Perbarui sekarang"
@@ -625,7 +625,7 @@
     "message": "Bagikan Brankas Anda"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden memungkinkan Anda berbagi brankas Anda dengan orang lain menggunakan akun organisasi. Anda ingin mengunjungi btiwarden.com untuk memperlajari lebih lanjut?"
+    "message": "Greenwarden memungkinkan Anda berbagi brankas Anda dengan orang lain menggunakan akun organisasi. Anda ingin mengunjungi btiwarden.com untuk memperlajari lebih lanjut?"
   },
   "shareItem": {
     "message": "Berbagi Item"
@@ -733,7 +733,7 @@
     "message": "Anda adalah anggota premium!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Terima kasih telah mendukung Bitwarden."
+    "message": "Terima kasih telah mendukung Greenwarden."
   },
   "premiumPrice": {
     "message": "Semua itu hanya $PRICE$/tahun!",
@@ -1232,7 +1232,7 @@
     "message": "Kata Sandi Utama Lemah"
   },
   "weakMasterPasswordDesc": {
-    "message": "Sandi utama yang Anda pilih itu lemah. Anda harus menggunakan sandi yang kuat (atau sebuah passphrase) untuk melindungi akun Bitwarden Anda. Apakah Anda yakin ingin menggunakan sandi ini?"
+    "message": "Sandi utama yang Anda pilih itu lemah. Anda harus menggunakan sandi yang kuat (atau sebuah passphrase) untuk melindungi akun Greenwarden Anda. Apakah Anda yakin ingin menggunakan sandi ini?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Buka kunci dengan PIN"
   },
   "setYourPinCode": {
-    "message": "Setel kode PIN Anda untuk membuka kunci Bitwarden. Pengaturan PIN Anda akan diatur ulang jika Anda pernah keluar sepenuhnya dari aplikasi."
+    "message": "Setel kode PIN Anda untuk membuka kunci Greenwarden. Pengaturan PIN Anda akan diatur ulang jika Anda pernah keluar sepenuhnya dari aplikasi."
   },
   "pinRequired": {
     "message": "Diperlukan kode PIN."
@@ -1263,7 +1263,7 @@
     "message": "Menunggu konfirmasi dari desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Harap konfirmasi menggunakan biometrik di aplikasi Bitwarden Desktop untuk mengaktifkan biometrik untuk browser."
+    "message": "Harap konfirmasi menggunakan biometrik di aplikasi Greenwarden Desktop untuk mengaktifkan biometrik untuk browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Kunci dengan kata sandi utama saat browser dihidupkan ulang"
@@ -1400,13 +1400,13 @@
     "message": "Integrasi browser tidak diaktifkan"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Integrasi browser tidak diaktifkan di aplikasi Bitwarden Desktop. Harap aktifkan di pengaturan dalam aplikasi desktop."
+    "message": "Integrasi browser tidak diaktifkan di aplikasi Greenwarden Desktop. Harap aktifkan di pengaturan dalam aplikasi desktop."
   },
   "startDesktopTitle": {
-    "message": "Jalankan aplikasi Bitwarden Desktop"
+    "message": "Jalankan aplikasi Greenwarden Desktop"
   },
   "startDesktopDesc": {
-    "message": "Aplikasi Bitwarden Desktop harus dijalankan sebelum fungsi ini dapat digunakan."
+    "message": "Aplikasi Greenwarden Desktop harus dijalankan sebelum fungsi ini dapat digunakan."
   },
   "errorEnableBiometricTitle": {
     "message": "Tidak dapat mengaktifkan biometrik"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Karena Kebijakan Perusahaan, Anda dilarang menyimpan item ke lemari besi pribadi Anda. Ubah opsi Kepemilikan ke organisasi dan pilih dari Koleksi yang tersedia."

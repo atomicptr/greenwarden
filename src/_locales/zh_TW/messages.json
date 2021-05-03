@@ -1,13 +1,13 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - 免費密碼管理工具",
     "description": "Extension name"
   },
   "extDesc": {
-    "message": "Bitwarden 是一個安全、免費、跨平台的密碼管理工具。",
+    "message": "Greenwarden 是一個安全、免費、跨平台的密碼管理工具。",
     "description": "Extension description"
   },
   "loginOrCreateNewAccount": {
@@ -191,7 +191,7 @@
     "message": "自動產生安全、獨特的登入密碼。"
   },
   "bitWebVault": {
-    "message": "Bitwarden 網頁版密碼庫"
+    "message": "Greenwarden 網頁版密碼庫"
   },
   "importItems": {
     "message": "匯入項目"
@@ -446,10 +446,10 @@
     "message": "變更主密碼"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "您可以在 Bitwarden 網頁版變更主密碼。現在前往？"
+    "message": "您可以在 Greenwarden 網頁版變更主密碼。現在前往？"
   },
   "twoStepLoginConfirmation": {
-    "message": "兩步驟登入需要您登入時輸入一個由驗證碼程式產生的安全碼，為您的帳戶增加一層保障。兩步驟登入可以在 Bitwarden 網頁版啟用。現在前往？"
+    "message": "兩步驟登入需要您登入時輸入一個由驗證碼程式產生的安全碼，為您的帳戶增加一層保障。兩步驟登入可以在 Greenwarden 網頁版啟用。現在前往？"
   },
   "editedFolder": {
     "message": "已編輯資料夾"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "希望 Bitwarden 幫您儲存這個密碼嗎？"
+    "message": "希望 Greenwarden 幫您儲存這個密碼嗎？"
   },
   "notificationAddSave": {
     "message": "好，立即儲存"
@@ -564,7 +564,7 @@
     "message": "偵測到您已變更網站上的密碼時，「密碼變更通知」將會自動提醒您更新密碼庫的密碼。"
   },
   "notificationChangeDesc": {
-    "message": "是否要在 Bitwarden 中更新此密碼？"
+    "message": "是否要在 Greenwarden 中更新此密碼？"
   },
   "notificationChangeSave": {
     "message": "是，立即更新"
@@ -625,7 +625,7 @@
     "message": "分享您的密碼庫"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden 允許您使用組織帳戶與他人共享您的密碼庫。您想造訪 bitwarden.com 網站以了解更多內容嗎？"
+    "message": "Greenwarden 允許您使用組織帳戶與他人共享您的密碼庫。您想造訪 bitwarden.com 網站以了解更多內容嗎？"
   },
   "shareItem": {
     "message": "分享項目"
@@ -694,7 +694,7 @@
     "message": "管理會員資格"
   },
   "premiumManageAlert": {
-    "message": "您可以在 Bitwarden 網頁版管理您的會員資格。現在前往？"
+    "message": "您可以在 Greenwarden 網頁版管理您的會員資格。現在前往？"
   },
   "premiumRefresh": {
     "message": "重新整理會員資訊"
@@ -727,13 +727,13 @@
     "message": "購買進階會員資格"
   },
   "premiumPurchaseAlert": {
-    "message": "您可以在 Bitwarden 網頁版購買進階會員資格。現在前往？"
+    "message": "您可以在 Greenwarden 網頁版購買進階會員資格。現在前往？"
   },
   "premiumCurrentMember": {
     "message": "您目前是進階會員！"
   },
   "premiumCurrentMemberThanks": {
-    "message": "感謝您支持 Bitwarden 。"
+    "message": "感謝您支持 Greenwarden 。"
   },
   "premiumPrice": {
     "message": "每年只需 %price% ！",
@@ -850,7 +850,7 @@
     "message": "自我託管環境"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "指定自己設定、管理的 Bitwarden 環境之基礎 URL。"
+    "message": "指定自己設定、管理的 Greenwarden 環境之基礎 URL。"
   },
   "customEnvironment": {
     "message": "自訂環境"
@@ -1242,7 +1242,7 @@
     "message": "用 PIN 碼解鎖"
   },
   "setYourPinCode": {
-    "message": "設定您用來解鎖 Bitwarden 的 PIN 碼。您的 PIN 設定將在您完全結束本應用程式時被重設。"
+    "message": "設定您用來解鎖 Greenwarden 的 PIN 碼。您的 PIN 設定將在您完全結束本應用程式時被重設。"
   },
   "pinRequired": {
     "message": "需要 PIN 碼。"
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "瀏覽器重啟後使用主密碼鎖定"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

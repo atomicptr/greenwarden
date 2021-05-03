@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Δωρεάν Διαχειριστής Κωδικών",
@@ -191,7 +191,7 @@
     "message": "Δημιουργήστε αυτόματα ισχυρούς και μοναδικούς κωδικούς πρόσβασης για τις συνδέσεις σας."
   },
   "bitWebVault": {
-    "message": "Bitwarden Web Vault"
+    "message": "Greenwarden Web Vault"
   },
   "importItems": {
     "message": "Εισαγωγή στοιχείων"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Πρέπει το Bitwarden να θυμάται αυτόν τον κωδικό πρόσβασης για εσάς;"
+    "message": "Πρέπει το Greenwarden να θυμάται αυτόν τον κωδικό πρόσβασης για εσάς;"
   },
   "notificationAddSave": {
     "message": "Ναι, Αποθήκευση Τώρα"
@@ -564,7 +564,7 @@
     "message": "Η \"Ειδοποίηση Αλλαγής Κωδικού\" σας ζητά αυτόματα να ενημερώσετε τον κωδικό πρόσβασης του εισερχόμενου στο vault σας κάθε φορά που εντοπίζει ότι το έχετε αλλάξει σε έναν ιστότοπο."
   },
   "notificationChangeDesc": {
-    "message": "Θέλετε να ενημερώσετε αυτό τον κωδικό στο Bitwarden ;"
+    "message": "Θέλετε να ενημερώσετε αυτό τον κωδικό στο Greenwarden ;"
   },
   "notificationChangeSave": {
     "message": "Ναι, Ενημέρωση Τώρα"
@@ -625,7 +625,7 @@
     "message": "Κοινή χρήση Vault"
   },
   "shareVaultConfirmation": {
-    "message": "Το Bitwarden επιτρέπει να μοιράζεστε το vault σας με άλλους χρησιμοποιώντας ένα λογαριασμό οργανισμού. Θέλετε να επισκεφθείτε την ιστοσελίδα bitwarden.com για να μάθετε περισσότερα;"
+    "message": "Το Greenwarden επιτρέπει να μοιράζεστε το vault σας με άλλους χρησιμοποιώντας ένα λογαριασμό οργανισμού. Θέλετε να επισκεφθείτε την ιστοσελίδα bitwarden.com για να μάθετε περισσότερα;"
   },
   "shareItem": {
     "message": "Κοινή χρήση Αντικειμένου"
@@ -733,7 +733,7 @@
     "message": "Είστε ένα premium μέλος!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Ευχαριστούμε που υποστηρίζετε το Bitwarden."
+    "message": "Ευχαριστούμε που υποστηρίζετε το Greenwarden."
   },
   "premiumPrice": {
     "message": "Όλα για μόνο $PRICE$ /έτος!",
@@ -850,7 +850,7 @@
     "message": "Αυτο-φιλοξενούμενο περιβάλλον"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Καθορίστε τη βασική διεύθυνση URL, της εγκατάστασης του Bitwarden που φιλοξενείται στο χώρο σας."
+    "message": "Καθορίστε τη βασική διεύθυνση URL, της εγκατάστασης του Greenwarden που φιλοξενείται στο χώρο σας."
   },
   "customEnvironment": {
     "message": "Προσαρμοσμένο περιβάλλον"
@@ -1232,7 +1232,7 @@
     "message": "Αδύναμος Κύριος Κωδικός"
   },
   "weakMasterPasswordDesc": {
-    "message": "Ο κύριος κωδικός που έχετε επιλέξει είναι αδύναμος. Θα πρέπει να χρησιμοποιήσετε έναν ισχυρό κύριο κωδικό (ή μια φράση) για την κατάλληλη προστασία του λογαριασμού Bitwarden. Είστε βέβαιοι ότι θέλετε να χρησιμοποιήσετε αυτόν τον κύριο κωδικό;"
+    "message": "Ο κύριος κωδικός που έχετε επιλέξει είναι αδύναμος. Θα πρέπει να χρησιμοποιήσετε έναν ισχυρό κύριο κωδικό (ή μια φράση) για την κατάλληλη προστασία του λογαριασμού Greenwarden. Είστε βέβαιοι ότι θέλετε να χρησιμοποιήσετε αυτόν τον κύριο κωδικό;"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Ξεκλείδωμα με PIN"
   },
   "setYourPinCode": {
-    "message": "Ορίστε τον κωδικό PIN για να ξεκλειδώσετε το Bitwarden. Οι ρυθμίσεις PIN θα επαναρυθμιστούν αν αποσυνδεθείτε πλήρως από την εφαρμογή."
+    "message": "Ορίστε τον κωδικό PIN για να ξεκλειδώσετε το Greenwarden. Οι ρυθμίσεις PIN θα επαναρυθμιστούν αν αποσυνδεθείτε πλήρως από την εφαρμογή."
   },
   "pinRequired": {
     "message": "Απαιτείται κωδικός PIN."
@@ -1263,7 +1263,7 @@
     "message": "Αναμονή επιβεβαίωσης από την επιφάνεια εργασίας"
   },
   "awaitDesktopDesc": {
-    "message": "Παρακαλώ επιβεβαιώστε τη χρήση βιομετρικών στοιχείων στην εφαρμογή Bitwarden Desktop για να ενεργοποιήσετε τα βιομετρικά στοιχεία για το πρόγραμμα περιήγησης."
+    "message": "Παρακαλώ επιβεβαιώστε τη χρήση βιομετρικών στοιχείων στην εφαρμογή Greenwarden Desktop για να ενεργοποιήσετε τα βιομετρικά στοιχεία για το πρόγραμμα περιήγησης."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Κλείδωμα με κύριο κωδικό πρόσβασης στην επανεκκίνηση του προγράμματος περιήγησης"
@@ -1400,13 +1400,13 @@
     "message": "Η ενσωμάτωση του περιηγητή δεν είναι ενεργοποιημένη"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Η ενσωμάτωση του προγράμματος περιήγησης δεν είναι ενεργοποιημένη στην εφαρμογή Bitwarden Desktop. Παρακαλώ ενεργοποιήστε την στις ρυθμίσεις της εφαρμογής desktop."
+    "message": "Η ενσωμάτωση του προγράμματος περιήγησης δεν είναι ενεργοποιημένη στην εφαρμογή Greenwarden Desktop. Παρακαλώ ενεργοποιήστε την στις ρυθμίσεις της εφαρμογής desktop."
   },
   "startDesktopTitle": {
-    "message": "Ξεκινήστε την εφαρμογή Bitwarden Επιφάνεια εργασίας"
+    "message": "Ξεκινήστε την εφαρμογή Greenwarden Επιφάνεια εργασίας"
   },
   "startDesktopDesc": {
-    "message": "Η εφαρμογή Bitwarden Desktop πρέπει να ξεκινήσει για να μπορεί να χρησιμοποιηθεί αυτή η λειτουργία."
+    "message": "Η εφαρμογή Greenwarden Desktop πρέπει να ξεκινήσει για να μπορεί να χρησιμοποιηθεί αυτή η λειτουργία."
   },
   "errorEnableBiometricTitle": {
     "message": "Αδυναμία ενεργοποίησης βιομετρικών στοιχείων"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Λόγω μιας Πολιτικής Επιχειρήσεων, δεν επιτρέπεται η αποθήκευση στοιχείων στο προσωπικό σας vault. Αλλάξτε την επιλογή Ιδιοκτησίας σε έναν οργανισμό και επιλέξτε από τις διαθέσιμες Συλλογές."

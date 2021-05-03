@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Gestionnaire de mots de passe gratuit",
@@ -191,7 +191,7 @@
     "message": "Générer automatiquement des mots de passe forts et uniques pour vos identifiants."
   },
   "bitWebVault": {
-    "message": "Coffre en ligne de Bitwarden"
+    "message": "Coffre en ligne de Greenwarden"
   },
   "importItems": {
     "message": "Importer des éléments"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Est-ce que Bitwarden doit se souvenir de ce mot de passe pour vous ?"
+    "message": "Est-ce que Greenwarden doit se souvenir de ce mot de passe pour vous ?"
   },
   "notificationAddSave": {
     "message": "Oui, enregistrer maintenant"
@@ -564,7 +564,7 @@
     "message": "La \"Notification de changement de mot de passe\" vous propose automatiquement de mettre à jour un mot de passe dans votre coffre lorsqu'il est changé sur un site web."
   },
   "notificationChangeDesc": {
-    "message": "Souhaitez-vous mettre à jour ce mot de passe dans Bitwarden ?"
+    "message": "Souhaitez-vous mettre à jour ce mot de passe dans Greenwarden ?"
   },
   "notificationChangeSave": {
     "message": "Oui, mettre à jour maintenant"
@@ -625,7 +625,7 @@
     "message": "Partager votre coffre"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden vous permet de partager votre coffre avec d'autres personnes en utilisant un compte d'organisation. Souhaitez-vous visiter le site web bitwarden.com pour en savoir plus ?"
+    "message": "Greenwarden vous permet de partager votre coffre avec d'autres personnes en utilisant un compte d'organisation. Souhaitez-vous visiter le site web bitwarden.com pour en savoir plus ?"
   },
   "shareItem": {
     "message": "Partager l'élément"
@@ -733,7 +733,7 @@
     "message": "Vous êtes un adhérent premium !"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Merci de supporter Bitwarden."
+    "message": "Merci de supporter Greenwarden."
   },
   "premiumPrice": {
     "message": "Tout pour seulement $PRICE$ /an !",
@@ -850,7 +850,7 @@
     "message": "Environnement auto-hébergé"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Spécifiez l'URL de base de votre installation Bitwarden auto-hébergée."
+    "message": "Spécifiez l'URL de base de votre installation Greenwarden auto-hébergée."
   },
   "customEnvironment": {
     "message": "Environnement personnalisé"
@@ -1232,7 +1232,7 @@
     "message": "Mot de passe maître faible"
   },
   "weakMasterPasswordDesc": {
-    "message": "Le mot de passe maître que vous avez choisi est faible. Vous devriez utiliser un mot de passe (ou une phrase de passe) fort(e) pour protéger correctement votre compte Bitwarden. Êtes-vous sûr(e) de vouloir utiliser ce mot de passe maître ?"
+    "message": "Le mot de passe maître que vous avez choisi est faible. Vous devriez utiliser un mot de passe (ou une phrase de passe) fort(e) pour protéger correctement votre compte Greenwarden. Êtes-vous sûr(e) de vouloir utiliser ce mot de passe maître ?"
   },
   "pin": {
     "message": "Code PIN",
@@ -1242,7 +1242,7 @@
     "message": "Déverrouiller avec un code PIN"
   },
   "setYourPinCode": {
-    "message": "Définissez votre code PIN pour déverrouiller Bitwarden. Les paramètres relatifs à votre code PIN seront réinitialisés si vous vous déconnectez complètement de l'application."
+    "message": "Définissez votre code PIN pour déverrouiller Greenwarden. Les paramètres relatifs à votre code PIN seront réinitialisés si vous vous déconnectez complètement de l'application."
   },
   "pinRequired": {
     "message": "Le code PIN est requis."
@@ -1263,7 +1263,7 @@
     "message": "En attente de confirmation de l'application de bureau"
   },
   "awaitDesktopDesc": {
-    "message": "Veuillez confirmer l'utilisation de la biométrie dans l'application Bitwarden de bureau pour activer la biométrie dans le navigateur."
+    "message": "Veuillez confirmer l'utilisation de la biométrie dans l'application Greenwarden de bureau pour activer la biométrie dans le navigateur."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Verrouiller avec le mot de passe maître lors du redémarrage"
@@ -1400,13 +1400,13 @@
     "message": "L'intégration avec le navigateur n'est pas activée"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "L'intégration avec le navigateur n'est pas activée dans l'application de bureau Bitwarden. Veuillez l'activer dans les paramètres de l'application de bureau."
+    "message": "L'intégration avec le navigateur n'est pas activée dans l'application de bureau Greenwarden. Veuillez l'activer dans les paramètres de l'application de bureau."
   },
   "startDesktopTitle": {
-    "message": "Démarrer l'application de bureau Bitwarden."
+    "message": "Démarrer l'application de bureau Greenwarden."
   },
   "startDesktopDesc": {
-    "message": "L'application de bureau Bitwarden doit être démarrée avant que cette fonction puisse être utilisée."
+    "message": "L'application de bureau Greenwarden doit être démarrée avant que cette fonction puisse être utilisée."
   },
   "errorEnableBiometricTitle": {
     "message": "Impossible d'activer la biométrie"
@@ -1442,7 +1442,7 @@
     "message": "Permission non accordée"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Sans la permission de communiquer avec l'application de bureau Bitwarden, nous ne pouvons pas activer le déverrouillage biométrique dans l'extension navigateur. Veuillez réessayer."
+    "message": "Sans la permission de communiquer avec l'application de bureau Greenwarden, nous ne pouvons pas activer le déverrouillage biométrique dans l'extension navigateur. Veuillez réessayer."
   },
   "personalOwnershipSubmitError": {
     "message": "En raison d'une politique d'entreprise, il vous est interdit d'enregistrer des éléments dans votre coffre personnel. Sélectionnez une organisation dans l'option Propriété et choisissez parmi les collections disponibles."

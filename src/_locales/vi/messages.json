@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Trình quản lý mật khẩu miễn phí",
@@ -446,10 +446,10 @@
     "message": "Thay đổi mật khẩu chính"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Bạn có thể thay đổi mật khẩu chủ trong trang web Bitwarden. Bạn có muốn truy cập bitwarden.com bây giờ?"
+    "message": "Bạn có thể thay đổi mật khẩu chủ trong trang web Greenwarden. Bạn có muốn truy cập bitwarden.com bây giờ?"
   },
   "twoStepLoginConfirmation": {
-    "message": "Xác thực hai lớp giúp cho tài khoản của bạn an toàn hơn bằng cách yêu cầu bạn xác minh thông tin đăng nhập của bạn bằng một thiết bị khác như khóa bảo mật, ứng dụng xác thực, SMS, cuộc gọi điện thoại hoặc email. Bạn có thể bật xác thực hai lớp trong trang web Bitwarden. Bạn có muốn ghé thăm bitwarden.com bây giờ?"
+    "message": "Xác thực hai lớp giúp cho tài khoản của bạn an toàn hơn bằng cách yêu cầu bạn xác minh thông tin đăng nhập của bạn bằng một thiết bị khác như khóa bảo mật, ứng dụng xác thực, SMS, cuộc gọi điện thoại hoặc email. Bạn có thể bật xác thực hai lớp trong trang web Greenwarden. Bạn có muốn ghé thăm bitwarden.com bây giờ?"
   },
   "editedFolder": {
     "message": "Chỉnh sửa Thư mục"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Bạn có cần Bitwarden nhớ giúp bạn mật khẩu này không?"
+    "message": "Bạn có cần Greenwarden nhớ giúp bạn mật khẩu này không?"
   },
   "notificationAddSave": {
     "message": "Vâng, Lưu Ngay"
@@ -564,7 +564,7 @@
     "message": "The \"Changed Password Notification\" automatically prompts you to update a login's password in your vault whenever it detects that you have changed it on a website."
   },
   "notificationChangeDesc": {
-    "message": "Bạn có muốn cập nhật mật khẩu này trên Bitwarden không?"
+    "message": "Bạn có muốn cập nhật mật khẩu này trên Greenwarden không?"
   },
   "notificationChangeSave": {
     "message": "Yes, Update Now"
@@ -625,7 +625,7 @@
     "message": "Chia sẻ kho mật khẩu của bạn"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden cho phép bạn chia sẻ kho mật khẩu của mình với người khác bằng cách sử dụng tài khoản tổ chức. Bạn có muốn truy cập trang web bitwarden.com để tìm hiểu thêm không?"
+    "message": "Greenwarden cho phép bạn chia sẻ kho mật khẩu của mình với người khác bằng cách sử dụng tài khoản tổ chức. Bạn có muốn truy cập trang web bitwarden.com để tìm hiểu thêm không?"
   },
   "shareItem": {
     "message": "Share Item"
@@ -694,7 +694,7 @@
     "message": "Quản lý Thành viên"
   },
   "premiumManageAlert": {
-    "message": "Bạn có thể quản lý các thành viên trong trang web Bitwarden. Bạn có muốn truy cập bitwarden.com bây giờ?"
+    "message": "Bạn có thể quản lý các thành viên trong trang web Greenwarden. Bạn có muốn truy cập bitwarden.com bây giờ?"
   },
   "premiumRefresh": {
     "message": "Làm mới thành viên"
@@ -727,13 +727,13 @@
     "message": "Mua bản Cao Cấp"
   },
   "premiumPurchaseAlert": {
-    "message": "Bạn có thể nâng cấp làm thành viên cao cấp trong trang web Bitwarden. Bạn có muốn truy cập bitwarden.com bây giờ?"
+    "message": "Bạn có thể nâng cấp làm thành viên cao cấp trong trang web Greenwarden. Bạn có muốn truy cập bitwarden.com bây giờ?"
   },
   "premiumCurrentMember": {
     "message": "Bạn là một thành viên cao cấp!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Cảm ơn bạn đã hỗ trợ Bitwarden."
+    "message": "Cảm ơn bạn đã hỗ trợ Greenwarden."
   },
   "premiumPrice": {
     "message": "Tất cả chỉ với $PRICE$ /năm!",
@@ -1232,7 +1232,7 @@
     "message": "Weak Master Password"
   },
   "weakMasterPasswordDesc": {
-    "message": "Mật khẩu chính bạn vừa chọn có vẻ yếu. Bạn nên chọn mật khẩu chính (hoặc cụm từ mật khẩu) mạnh để bảo vệ đúng cách tài khoản Bitwarden của bạn. Bạn có thực sự muốn dùng mật khẩu chính này?"
+    "message": "Mật khẩu chính bạn vừa chọn có vẻ yếu. Bạn nên chọn mật khẩu chính (hoặc cụm từ mật khẩu) mạnh để bảo vệ đúng cách tài khoản Greenwarden của bạn. Bạn có thực sự muốn dùng mật khẩu chính này?"
   },
   "pin": {
     "message": "Mã PIN",
@@ -1242,7 +1242,7 @@
     "message": "Mở khóa với mã PIN"
   },
   "setYourPinCode": {
-    "message": "Đặt mã PIN của bạn để mở khóa Bitwarden. Cài đặt mã PIN của bạn sẽ bị xóa nếu bạn hoàn toàn đăng xuất khỏi ứng dụng."
+    "message": "Đặt mã PIN của bạn để mở khóa Greenwarden. Cài đặt mã PIN của bạn sẽ bị xóa nếu bạn hoàn toàn đăng xuất khỏi ứng dụng."
   },
   "pinRequired": {
     "message": "Mã PIN là bắt buộc."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Khóa với mật khẩu chính khi trình duyệt khởi động lại"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

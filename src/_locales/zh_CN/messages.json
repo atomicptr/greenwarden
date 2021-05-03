@@ -1,13 +1,13 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - 免费密码管理器",
     "description": "Extension name"
   },
   "extDesc": {
-    "message": "Bitwarden 是一个安全且免费的跨平台密码管理器。",
+    "message": "Greenwarden 是一个安全且免费的跨平台密码管理器。",
     "description": "Extension description"
   },
   "loginOrCreateNewAccount": {
@@ -191,7 +191,7 @@
     "message": "自动生成安全可靠唯一的登录密码。"
   },
   "bitWebVault": {
-    "message": "Bitwarden 网页版密码库"
+    "message": "Greenwarden 网页版密码库"
   },
   "importItems": {
     "message": "导入项目"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "希望 Bitwarden 为您保存这个密码吗？"
+    "message": "希望 Greenwarden 为您保存这个密码吗？"
   },
   "notificationAddSave": {
     "message": "是，现在保存"
@@ -564,7 +564,7 @@
     "message": "检测到您已变更网站上的密码时，“密码变更通知” 自动提醒您更新密码库中相应项的密码。"
   },
   "notificationChangeDesc": {
-    "message": "是否要在 Bitwarden 中更新此密码？"
+    "message": "是否要在 Greenwarden 中更新此密码？"
   },
   "notificationChangeSave": {
     "message": "是，立即更新"
@@ -625,7 +625,7 @@
     "message": "共享你的密码库"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden 允许您使用组织帐户与他人共享您的密码库。您想访问 bitwarden.com 网站以了解更多内容吗？"
+    "message": "Greenwarden 允许您使用组织帐户与他人共享您的密码库。您想访问 bitwarden.com 网站以了解更多内容吗？"
   },
   "shareItem": {
     "message": "共享项目"
@@ -733,7 +733,7 @@
     "message": "您是高级会员！"
   },
   "premiumCurrentMemberThanks": {
-    "message": "感谢您支持 Bitwarden。"
+    "message": "感谢您支持 Greenwarden。"
   },
   "premiumPrice": {
     "message": "每年只需 $PRICE$ ！",
@@ -850,7 +850,7 @@
     "message": "自托管环境"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "指定您本地托管的 Bitwarden 安装的基础 URL。"
+    "message": "指定您本地托管的 Greenwarden 安装的基础 URL。"
   },
   "customEnvironment": {
     "message": "自定义环境"
@@ -1232,7 +1232,7 @@
     "message": "脆弱的主密码"
   },
   "weakMasterPasswordDesc": {
-    "message": "您选择的主密码较弱。您应该使用强密码（或密码短语）来正确保护您的 Bitwarden 账户。仍要使用此主密码吗？"
+    "message": "您选择的主密码较弱。您应该使用强密码（或密码短语）来正确保护您的 Greenwarden 账户。仍要使用此主密码吗？"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "使用 PIN 解锁"
   },
   "setYourPinCode": {
-    "message": "设定您用来解锁 Bitwarden 的 PIN 码。您的 PIN 设置将在您完全登出本应用程序时被重置。"
+    "message": "设定您用来解锁 Greenwarden 的 PIN 码。您的 PIN 设置将在您完全登出本应用程序时被重置。"
   },
   "pinRequired": {
     "message": "需要 PIN 码。"
@@ -1263,7 +1263,7 @@
     "message": "等待来自桌面应用程序的确认"
   },
   "awaitDesktopDesc": {
-    "message": "请确认在 Bitwarden 桌面应用程序中使用了生物识别以启用浏览器的生物识别。"
+    "message": "请确认在 Greenwarden 桌面应用程序中使用了生物识别以启用浏览器的生物识别。"
   },
   "lockWithMasterPassOnRestart": {
     "message": "浏览器重启后使用主密码锁定"
@@ -1400,13 +1400,13 @@
     "message": "浏览器集成未启用"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "浏览器集成在 Bitwarden 桌面应用程序中未启用。请在桌面应用程序的设置中启用它。"
+    "message": "浏览器集成在 Greenwarden 桌面应用程序中未启用。请在桌面应用程序的设置中启用它。"
   },
   "startDesktopTitle": {
-    "message": "启动 Bitwarden 桌面应用程序"
+    "message": "启动 Greenwarden 桌面应用程序"
   },
   "startDesktopDesc": {
-    "message": "Bitwarden 桌面应用程序需要以运行才能使用此功能。"
+    "message": "Greenwarden 桌面应用程序需要以运行才能使用此功能。"
   },
   "errorEnableBiometricTitle": {
     "message": "无法启用生物识别"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "由于企业策略，您被限制为保存项目到您的个人密码库。将所有权选项更改为组织，并从可用的集合中选择。"

@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Бесплатни Менаџер Лозинке",
@@ -191,7 +191,7 @@
     "message": "Аутоматски генеришите јаке, јединствене лозинке за ваше пријаве."
   },
   "bitWebVault": {
-    "message": "Bitwarden Интернет Сеф"
+    "message": "Greenwarden Интернет Сеф"
   },
   "importItems": {
     "message": "Увоз ставки"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Да ли Bitwarden треба да запамти ову лозинку?"
+    "message": "Да ли Greenwarden треба да запамти ову лозинку?"
   },
   "notificationAddSave": {
     "message": "Да, сачувај сада"
@@ -564,7 +564,7 @@
     "message": "„Нотификација Промењена Лозинка“ аутоматски тражи да ажурирате лозинку за пријављивање у сефу сваки пут када открије да сте је променили на веб сајту."
   },
   "notificationChangeDesc": {
-    "message": "Да се ажурира ова лозинка у Bitwarden?"
+    "message": "Да се ажурира ова лозинка у Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Да, ажурирај сада"
@@ -625,7 +625,7 @@
     "message": "Поделите Ваш Сеф"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden вам омогућава да делите сефса другима користећи налог организације. Да ли желите да посетите веб локацију bitwarden.com да бисте сазнали више?"
+    "message": "Greenwarden вам омогућава да делите сефса другима користећи налог организације. Да ли желите да посетите веб локацију bitwarden.com да бисте сазнали више?"
   },
   "shareItem": {
     "message": "Поделити ставку"
@@ -733,7 +733,7 @@
     "message": "Ви сте премијум члан!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Хвала Вам за подршку Bitwarden-а."
+    "message": "Хвала Вам за подршку Greenwarden-а."
   },
   "premiumPrice": {
     "message": "Све за само $PRICE$ годишње!",
@@ -850,7 +850,7 @@
     "message": "Самостално окружење"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Наведите основни УРЛ вашег локалног инсталиране Bitwarden инсталације."
+    "message": "Наведите основни УРЛ вашег локалног инсталиране Greenwarden инсталације."
   },
   "customEnvironment": {
     "message": "Прилагођено окружење"
@@ -1242,7 +1242,7 @@
     "message": "Откључај са ПИН"
   },
   "setYourPinCode": {
-    "message": "Поставите свој ПИН код за откључавање Bitwarden-а. Поставке ПИН-а ће се ресетовати ако се икада потпуно одјавите из апликације."
+    "message": "Поставите свој ПИН код за откључавање Greenwarden-а. Поставке ПИН-а ће се ресетовати ако се икада потпуно одјавите из апликације."
   },
   "pinRequired": {
     "message": "ПИН је обавезан."
@@ -1263,7 +1263,7 @@
     "message": "Чекање потврде са десктопа"
   },
   "awaitDesktopDesc": {
-    "message": "Потврдити са биометриком у Bitwarden Desktop апликацији да би упалили биометрику у претраживачу."
+    "message": "Потврдити са биометриком у Greenwarden Desktop апликацији да би упалили биометрику у претраживачу."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Закључајте са главном лозинком при поновном покретању прегледача"
@@ -1400,13 +1400,13 @@
     "message": "Интеграција претраживача није омогућена"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Интеграција претраживача није омогућена у Bitwarden Desktop. Омогућите је у подешавања из Bitwarden Desktop апликације."
+    "message": "Интеграција претраживача није омогућена у Greenwarden Desktop. Омогућите је у подешавања из Greenwarden Desktop апликације."
   },
   "startDesktopTitle": {
-    "message": "Покрени Bitwarden Desktop апликацију"
+    "message": "Покрени Greenwarden Desktop апликацију"
   },
   "startDesktopDesc": {
-    "message": "Bitwarden Desktop апликација треба да се покрене пре употребе ове функције."
+    "message": "Greenwarden Desktop апликација треба да се покрене пре употребе ове функције."
   },
   "errorEnableBiometricTitle": {
     "message": "Погрешно омогућавање биометрике"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Због смерница за предузећа, ограничено вам је чување предмета у вашем личном трезору. Промените опцију власништва у организацију и изаберите из доступних колекција."

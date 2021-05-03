@@ -1,13 +1,13 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Besplatni upravitelj lozinki",
     "description": "Extension name"
   },
   "extDesc": {
-    "message": "Bitwarden je siguran i besplatan upravitelj lozinki za sve Vaše uređaje.",
+    "message": "Greenwarden je siguran i besplatan upravitelj lozinki za sve Vaše uređaje.",
     "description": "Extension description"
   },
   "loginOrCreateNewAccount": {
@@ -191,7 +191,7 @@
     "message": "Automatski generirajte jake, jedinstvene zaporke za prijavu."
   },
   "bitWebVault": {
-    "message": "Bitwarden Web trezor"
+    "message": "Greenwarden Web trezor"
   },
   "importItems": {
     "message": "Uvoz stavki"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Treba li Bitwarden zapamtiti ovu lozinku?"
+    "message": "Treba li Greenwarden zapamtiti ovu lozinku?"
   },
   "notificationAddSave": {
     "message": "Da, spremi sad"
@@ -564,7 +564,7 @@
     "message": "\"Obavijest o promijenjenoj lozinci\" automatski Vas traži da ažurirate zaporku za prijavu u trezoru svaki put kad otkrije da je promijenjena na web stranici."
   },
   "notificationChangeDesc": {
-    "message": "Da li želite ažurirati ovu lozinku i u Bitwarden aplikaciji?"
+    "message": "Da li želite ažurirati ovu lozinku i u Greenwarden aplikaciji?"
   },
   "notificationChangeSave": {
     "message": "Da, ažuriraj sada"
@@ -625,7 +625,7 @@
     "message": "Podijelite trezor"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden omogućuje dijeljenje trezora s drugima pomoću računa organizacije. Želite li posjetiti web stranicu bitwarden.com da biste saznali više?"
+    "message": "Greenwarden omogućuje dijeljenje trezora s drugima pomoću računa organizacije. Želite li posjetiti web stranicu bitwarden.com da biste saznali više?"
   },
   "shareItem": {
     "message": "Podijeli stavku"
@@ -733,7 +733,7 @@
     "message": "Vi ste premium član!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Hvala Vam što podupirete Bitwarden."
+    "message": "Hvala Vam što podupirete Greenwarden."
   },
   "premiumPrice": {
     "message": "Sve samo za %price% /godišnje!",
@@ -850,7 +850,7 @@
     "message": "Vlastito hosting okruženje"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Navedite osnovni URL Vaše lokalno hostirane Bitwarden instalacije."
+    "message": "Navedite osnovni URL Vaše lokalno hostirane Greenwarden instalacije."
   },
   "customEnvironment": {
     "message": "Prilagođeno okruženje"
@@ -1232,7 +1232,7 @@
     "message": "Slaba Glavna Lozinka"
   },
   "weakMasterPasswordDesc": {
-    "message": "Glavna lozinka koju ste odabrali je slaba. Trebate koristiti jaču glavnu lozinku (ili frazu) da bi ste pravilno zaštitili Vaš Bitwarden račun. Jeste li sigurni da želite koristiti ovu glavnu lozinku?"
+    "message": "Glavna lozinka koju ste odabrali je slaba. Trebate koristiti jaču glavnu lozinku (ili frazu) da bi ste pravilno zaštitili Vaš Greenwarden račun. Jeste li sigurni da želite koristiti ovu glavnu lozinku?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Otključaj s PIN-om"
   },
   "setYourPinCode": {
-    "message": "Postavite Vaš PIN kod za otključavanje Bitwardena. Vaše postavke PIN-a će biti resetirane ako se ikada potpuno odjavite iz aplikacije."
+    "message": "Postavite Vaš PIN kod za otključavanje Greenwardena. Vaše postavke PIN-a će biti resetirane ako se ikada potpuno odjavite iz aplikacije."
   },
   "pinRequired": {
     "message": "Potreban je PIN kod."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Zaključaj s glavnom lozinkom kod ponovnog pokretanja preglednika"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

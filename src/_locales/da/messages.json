@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Gratis adgangskodemanager",
@@ -191,7 +191,7 @@
     "message": "Opret automatisk stærke, unikke adgangskoder til dine logins."
   },
   "bitWebVault": {
-    "message": "Bitwarden web-boks"
+    "message": "Greenwarden web-boks"
   },
   "importItems": {
     "message": "Importér elementer"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Skal Bitwarden huske denne adgangskode for dig?"
+    "message": "Skal Greenwarden huske denne adgangskode for dig?"
   },
   "notificationAddSave": {
     "message": "Ja, gem nu"
@@ -564,7 +564,7 @@
     "message": "\"Besked om ændret adgangskode\" beder dig automatisk om at opdatere en adgangskode i din boks, når det opdager, at du har ændret den på en hjemmeside."
   },
   "notificationChangeDesc": {
-    "message": "Vil du opdatere denne adgangskode i Bitwarden?"
+    "message": "Vil du opdatere denne adgangskode i Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Ja, opdatér nu"
@@ -625,7 +625,7 @@
     "message": "Del din boks"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden giver dig mulighed for at dele din boks med andre ved at bruge en organisationskonto. Vil du besøge webstedet bitwarden.com for at få mere information?"
+    "message": "Greenwarden giver dig mulighed for at dele din boks med andre ved at bruge en organisationskonto. Vil du besøge webstedet bitwarden.com for at få mere information?"
   },
   "shareItem": {
     "message": "Del element"
@@ -733,7 +733,7 @@
     "message": "Du er premium-medlem!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Tak fordi du støtter Bitwarden."
+    "message": "Tak fordi du støtter Greenwarden."
   },
   "premiumPrice": {
     "message": "Alt dette for kun $PRICE$ /år!",
@@ -850,7 +850,7 @@
     "message": "Selv-hosted miljø"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Angiv grund-URL'en i din lokal-hostede Bitwarden-installation."
+    "message": "Angiv grund-URL'en i din lokal-hostede Greenwarden-installation."
   },
   "customEnvironment": {
     "message": "Brugerdefineret miljø"
@@ -1232,7 +1232,7 @@
     "message": "Svag hovedadgangskode"
   },
   "weakMasterPasswordDesc": {
-    "message": "Hovedadgangskoden du har valgt er svag. Du skal bruge en stærk hovedadgangskode (eller en adgangssætning) for at beskytte din Bitwarden-konto korrekt. Er du sikker på, at du vil bruge denne hovedadgangskode?"
+    "message": "Hovedadgangskoden du har valgt er svag. Du skal bruge en stærk hovedadgangskode (eller en adgangssætning) for at beskytte din Greenwarden-konto korrekt. Er du sikker på, at du vil bruge denne hovedadgangskode?"
   },
   "pin": {
     "message": "Pinkode",
@@ -1242,7 +1242,7 @@
     "message": "Lås op med pinkode"
   },
   "setYourPinCode": {
-    "message": "Indstil din pinkode til at låse Bitwarden op. Dine pin-indstillinger nulstilles, hvis du nogensinde logger helt ud af programmet."
+    "message": "Indstil din pinkode til at låse Greenwarden op. Dine pin-indstillinger nulstilles, hvis du nogensinde logger helt ud af programmet."
   },
   "pinRequired": {
     "message": "Pinkode er påkrævet."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Lås med hovedadgangskode ved genstart af browseren"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

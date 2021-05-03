@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Bezplatný správca hesiel",
@@ -191,7 +191,7 @@
     "message": "Automaticky generovať silné a unikátne heslá k prihlasovacím údajom."
   },
   "bitWebVault": {
-    "message": "Webový trezor Bitwarden"
+    "message": "Webový trezor Greenwarden"
   },
   "importItems": {
     "message": "Importovať položky"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Má si pre vás Bitwarden zapamätať toto heslo?"
+    "message": "Má si pre vás Greenwarden zapamätať toto heslo?"
   },
   "notificationAddSave": {
     "message": "Áno, uložiť teraz"
@@ -564,7 +564,7 @@
     "message": "Oznámenie o zmene hesla sa vás automaticky opýta na aktualizáciu prihlasovacích údajov vo vašom trezore vždy, keď zistí, že ste ho zmenili na stránke."
   },
   "notificationChangeDesc": {
-    "message": "Chcete aktualizovať toto heslo v Bitwarden?"
+    "message": "Chcete aktualizovať toto heslo v Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Áno, aktualizovať"
@@ -625,7 +625,7 @@
     "message": "Zdieľať trezor"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden vám umožňuje zdieľať váš trezor s ostatnými použitím konta v organizácii. Chcete navštíviť stránku bitwarden.com a dozvedieť sa viac?"
+    "message": "Greenwarden vám umožňuje zdieľať váš trezor s ostatnými použitím konta v organizácii. Chcete navštíviť stránku bitwarden.com a dozvedieť sa viac?"
   },
   "shareItem": {
     "message": "Zdieľať položku"
@@ -733,7 +733,7 @@
     "message": "Ste prémiovým členom!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Ďakujeme, že podporujete Bitwarden."
+    "message": "Ďakujeme, že podporujete Greenwarden."
   },
   "premiumPrice": {
     "message": "Všetko len za %price% /rok!",
@@ -850,7 +850,7 @@
     "message": "Sebou hosťované prostredie"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Zadajte základnú URL adresu lokálne hosťovanej inštalácie Bitwarden."
+    "message": "Zadajte základnú URL adresu lokálne hosťovanej inštalácie Greenwarden."
   },
   "customEnvironment": {
     "message": "Vlastné prostredie"
@@ -1232,7 +1232,7 @@
     "message": "Slabé hlavné heslo"
   },
   "weakMasterPasswordDesc": {
-    "message": "Hlavné heslo, ktoré ste zadali, je slabé. Mali by ste použiť silné heslo (alebo frázu), aby ste spoľahlivo ochránili váš Bitwarden účet. Naozaj chcete použiť toto heslo?"
+    "message": "Hlavné heslo, ktoré ste zadali, je slabé. Mali by ste použiť silné heslo (alebo frázu), aby ste spoľahlivo ochránili váš Greenwarden účet. Naozaj chcete použiť toto heslo?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Odomknúť s PIN"
   },
   "setYourPinCode": {
-    "message": "Nastaviť kód PIN na odomykanie Bitwardenu. Nastavenie PIN sa vynuluje, ak sa úplne odhlásite z aplikácie."
+    "message": "Nastaviť kód PIN na odomykanie Greenwardenu. Nastavenie PIN sa vynuluje, ak sa úplne odhlásite z aplikácie."
   },
   "pinRequired": {
     "message": "Kód PIN je povinný."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Pri reštarte prehliadača zamknúť s hlavným heslom"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden – Ilmainen salasanojen hallinta",
@@ -191,7 +191,7 @@
     "message": "Luo kirjautumistiedoillesi automaattisesti vahvoja, ainutlaatuisia salasanoja."
   },
   "bitWebVault": {
-    "message": "Bitwardenin verkkoholvi"
+    "message": "Greenwardenin verkkoholvi"
   },
   "importItems": {
     "message": "Tuo kohteita"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Haluatko, että Bitwarden muistaa salasanan puolestasi?"
+    "message": "Haluatko, että Greenwarden muistaa salasanan puolestasi?"
   },
   "notificationAddSave": {
     "message": "Kyllä, tallenna nyt"
@@ -564,7 +564,7 @@
     "message": "\"Salasana vaihdettu\" -ilmoitus ehdottaa holviisi tallennetun salasanan automaattista päivitystä kun se havaitsee, että olet vaihtanut sen verkkosivustolla."
   },
   "notificationChangeDesc": {
-    "message": "Haluatko päivittää salasanan Bitwardeniin?"
+    "message": "Haluatko päivittää salasanan Greenwardeniin?"
   },
   "notificationChangeSave": {
     "message": "Kyllä, päivitä nyt"
@@ -625,7 +625,7 @@
     "message": "Jaa holvisi"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwardenin avulla voit jakaa holvisi sisältöä muiden kanssa organisaatiotiliä käyttäen. Haluatko lukea bitwarden.com-sivustolta lisää?"
+    "message": "Greenwardenin avulla voit jakaa holvisi sisältöä muiden kanssa organisaatiotiliä käyttäen. Haluatko lukea bitwarden.com-sivustolta lisää?"
   },
   "shareItem": {
     "message": "Jaa kohde"
@@ -733,7 +733,7 @@
     "message": "Olet Premium-jäsen!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Kiitos kun tuet Bitwardenia."
+    "message": "Kiitos kun tuet Greenwardenia."
   },
   "premiumPrice": {
     "message": "Kaikki tämä vain $PRICE$/vuosi!",
@@ -850,7 +850,7 @@
     "message": "Oma palvelinympäristö"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Määritä omassa palvelinympäristössäsi suoritettavan Bitwarden-asennuksen pääverkkotunnus."
+    "message": "Määritä omassa palvelinympäristössäsi suoritettavan Greenwarden-asennuksen pääverkkotunnus."
   },
   "customEnvironment": {
     "message": "Mukautettu palvelinympäristö"
@@ -1232,7 +1232,7 @@
     "message": "Heikko pääsalasana"
   },
   "weakMasterPasswordDesc": {
-    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salauslauseketta) suojataksesi Bitwarden-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
+    "message": "Valitsemasi pääsalasana on heikko. Sinun tulisi käyttää vahvaa pääsalasanaa (tai salauslauseketta) suojataksesi Greenwarden-tilisi kunnolla. Haluatko varmasti käyttää tätä pääsalasanaa?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Avaa lukitus PIN-koodilla"
   },
   "setYourPinCode": {
-    "message": "Aseta PIN-koodisi Bitwardenin avausta varten. PIN-asetukset tyhjentyvät, jos kirjaudut kokonaan ulos sovelluksesta."
+    "message": "Aseta PIN-koodisi Greenwardenin avausta varten. PIN-asetukset tyhjentyvät, jos kirjaudut kokonaan ulos sovelluksesta."
   },
   "pinRequired": {
     "message": "PIN-koodi vaaditaan."
@@ -1263,7 +1263,7 @@
     "message": "Odottaa vahvistusta työpöydältä"
   },
   "awaitDesktopDesc": {
-    "message": "Vahvista biometrian käyttö Bitwardenin työpöytäsovelluksessa käyttääksesi sitä selaimessa."
+    "message": "Vahvista biometrian käyttö Greenwardenin työpöytäsovelluksessa käyttääksesi sitä selaimessa."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Lukitse pääsalasanalla kun selain käynnistetään uudelleen"
@@ -1400,13 +1400,13 @@
     "message": "Selainintegrointi ei ole käytössä"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Selainintegrointi ei ole käytössä Bitwardenin työpöytäsovelluksessa. Ota se käyttöön työpöytäsovelluksen asetuksista."
+    "message": "Selainintegrointi ei ole käytössä Greenwardenin työpöytäsovelluksessa. Ota se käyttöön työpöytäsovelluksen asetuksista."
   },
   "startDesktopTitle": {
-    "message": "Käynnistä Bitwardenin työpöytäsovellus"
+    "message": "Käynnistä Greenwardenin työpöytäsovellus"
   },
   "startDesktopDesc": {
-    "message": "Bitwardenin työpöytäsovellus on käynnistettävä ennen kuin tätä toimintoa voidaan käyttää."
+    "message": "Greenwardenin työpöytäsovellus on käynnistettävä ennen kuin tätä toimintoa voidaan käyttää."
   },
   "errorEnableBiometricTitle": {
     "message": "Biometrian käyttöönotto ei onnistu"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Yrityksen asettaman käytännön johdosta kohteiden tallennus omaan holviisi ei ole mahdollista. Muuta omistusasetus organisaatiolle ja valitse käytettävissä olevista kokoelmista."

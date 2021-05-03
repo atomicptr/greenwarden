@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Ingyenes jelszókezelő",
@@ -191,7 +191,7 @@
     "message": "Automatikusan létrehoz erős, egyedi jelszavakat a bejelentkezéseidhez."
   },
   "bitWebVault": {
-    "message": "Bitwarden webes széf"
+    "message": "Greenwarden webes széf"
   },
   "importItems": {
     "message": "Elemek importálása"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "A Bitwarden megjegyezze ezt a jelszót?"
+    "message": "A Greenwarden megjegyezze ezt a jelszót?"
   },
   "notificationAddSave": {
     "message": "Igen, mentés most"
@@ -564,7 +564,7 @@
     "message": "A \"Megváltozott jelszó értesítés\" automatikusan felajánlja a bejelentkezési jelszó frissítését a széfben, ha annak megváltoztatását érzékeli a webhelyen."
   },
   "notificationChangeDesc": {
-    "message": "Frissítésre kerüljön a jelszó a Bitwardenben?"
+    "message": "Frissítésre kerüljön a jelszó a Greenwardenben?"
   },
   "notificationChangeSave": {
     "message": "Igen, frissítés most"
@@ -625,7 +625,7 @@
     "message": "Széf megosztása"
   },
   "shareVaultConfirmation": {
-    "message": "A Bitwarden lehetővé teszi egy szervezeti fiók használatával a fiók megosztását másokkal. Szeretnénk felkeresni a bitwarden.com webhelyet további információért?"
+    "message": "A Greenwarden lehetővé teszi egy szervezeti fiók használatával a fiók megosztását másokkal. Szeretnénk felkeresni a bitwarden.com webhelyet további információért?"
   },
   "shareItem": {
     "message": "Elem megosztása"
@@ -733,7 +733,7 @@
     "message": "Te egy prémium tag vagy!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Köszönjük a Bitwarden támogatását."
+    "message": "Köszönjük a Greenwarden támogatását."
   },
   "premiumPrice": {
     "message": "Mindez csak $PRICE$ /év.",
@@ -850,7 +850,7 @@
     "message": "Saját üzemeltetésű környezet"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "A helyileg működtetett Bitwarden telepítés alap webcímének megadása."
+    "message": "A helyileg működtetett Greenwarden telepítés alap webcímének megadása."
   },
   "customEnvironment": {
     "message": "Egyedi környezet"
@@ -1232,7 +1232,7 @@
     "message": "Gyenge mesterjelszó"
   },
   "weakMasterPasswordDesc": {
-    "message": "A választott mesterjelszó gyenge. Erős jelszót (vagy kifejezést) kell használni a Bitwarden fiók megfelelő védelme érdekében. Biztosan ezt a mesterjelszót szeretnénk használni?"
+    "message": "A választott mesterjelszó gyenge. Erős jelszót (vagy kifejezést) kell használni a Greenwarden fiók megfelelő védelme érdekében. Biztosan ezt a mesterjelszót szeretnénk használni?"
   },
   "pin": {
     "message": "Pinkód",
@@ -1242,7 +1242,7 @@
     "message": "Felnyitás pinkóddal"
   },
   "setYourPinCode": {
-    "message": "A pinkód beállítása a Bitwarden feloldásához. A pinkód beállítás alaphelyzetbe kerül, ha teljesen kijelentkezünk az alkalmazásból."
+    "message": "A pinkód beállítása a Greenwarden feloldásához. A pinkód beállítás alaphelyzetbe kerül, ha teljesen kijelentkezünk az alkalmazásból."
   },
   "pinRequired": {
     "message": "A pinkód szükséges."
@@ -1263,7 +1263,7 @@
     "message": "Várakozás megerősítésre az asztali alkalmazásból"
   },
   "awaitDesktopDesc": {
-    "message": "Erősítsük meg a biometrikus adatok használatát a Bitwarden asztali alkalmazásban a biometrikus adatok engedélyezéséhez a böngészőben."
+    "message": "Erősítsük meg a biometrikus adatok használatát a Greenwarden asztali alkalmazásban a biometrikus adatok engedélyezéséhez a böngészőben."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Lezárás mesterjelszóval a böngésző újraindításakor"
@@ -1400,13 +1400,13 @@
     "message": "A böngésző integráció nem engedélyezett."
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "A böngésző integráció nincs engedélyezve a Bitwarden asztali alkalmazásban. Engedélyezzük az asztali alkalmazás beállításai között."
+    "message": "A böngésző integráció nincs engedélyezve a Greenwarden asztali alkalmazásban. Engedélyezzük az asztali alkalmazás beállításai között."
   },
   "startDesktopTitle": {
-    "message": "A Bitwarden asztali alkalmazás indítása"
+    "message": "A Greenwarden asztali alkalmazás indítása"
   },
   "startDesktopDesc": {
-    "message": "A funkció használatához el kell indítani a Bitwarden asztali alkalmazást."
+    "message": "A funkció használatához el kell indítani a Greenwarden asztali alkalmazást."
   },
   "errorEnableBiometricTitle": {
     "message": "Nem lehet engedélyezni a biometrikus adatokat."
@@ -1442,7 +1442,7 @@
     "message": "A jogosultság nincs megadva."
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "A Bitwarden Desktop alkalmazással való kommunikáció engedélye nélkül nem adhatunk meg biometrikus adatokat a böngésző kiterjesztésében. Próbáljuk újra."
+    "message": "A Greenwarden Desktop alkalmazással való kommunikáció engedélye nélkül nem adhatunk meg biometrikus adatokat a böngésző kiterjesztésében. Próbáljuk újra."
   },
   "personalOwnershipSubmitError": {
     "message": "Egy vállalati házirend miatt korlátozásra került az elemek személyes tárolóba történő mentése. Módosítsuk a Tulajdon opciót egy szervezetre és válasszunk az elérhető gyűjtemények közül."

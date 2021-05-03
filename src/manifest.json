@@ -75,7 +75,7 @@
       "19": "images/icon19.png",
       "38": "images/icon38.png"
     },
-    "default_title": "Bitwarden",
+    "default_title": "Greenwarden",
     "default_popup": "popup/index.html"
   },
   "permissions": [
@@ -136,7 +136,7 @@
     }
   },
   "sidebar_action": {
-    "default_title": "Bitwarden Green",
+    "default_title": "Greenwarden",
     "default_panel": "popup/index.html?uilocation=sidebar",
     "default_icon": "images/icon19.png"
   }

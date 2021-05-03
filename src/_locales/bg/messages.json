@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Битуорден (Bitwarden)"
+    "message": "Битуорден (Greenwarden)"
   },
   "extName": {
     "message": "Greenwarden — безплатен управител на пароли",
@@ -191,7 +191,7 @@
     "message": "Автоматично създаване на силни и неповторими пароли."
   },
   "bitWebVault": {
-    "message": "Уебтрезорът на Bitwarden"
+    "message": "Уебтрезорът на Greenwarden"
   },
   "importItems": {
     "message": "Внасяне на елементи"
@@ -464,7 +464,7 @@
     "message": "Въведение"
   },
   "gettingStartedTutorialVideo": {
-    "message": "Изгледайте въведението, за да извлечете максимална полза от разширението Bitwarden."
+    "message": "Изгледайте въведението, за да извлечете максимална полза от разширението Greenwarden."
   },
   "syncingComplete": {
     "message": "Синхронизацията завърши"
@@ -564,7 +564,7 @@
     "message": "Известията за обновяване на регистрации автоматично ви подканят да запазите променените регистрации в трезора при засичането на промяната."
   },
   "notificationChangeDesc": {
-    "message": "Да се обнови ли паролата в Bitwarden?"
+    "message": "Да се обнови ли паролата в Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Да, нека се обнови сега"
@@ -625,7 +625,7 @@
     "message": "Споделяне на трезора ви"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden позволява да споделяте части от трезора си чрез регистрация на организация. Искате ли да научите повече от сайта bitwarden.com?"
+    "message": "Greenwarden позволява да споделяте части от трезора си чрез регистрация на организация. Искате ли да научите повече от сайта bitwarden.com?"
   },
   "shareItem": {
     "message": "Споделяне на запис"
@@ -733,7 +733,7 @@
     "message": "Честито, ползвате платен абонамент!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Благодарим ви за подкрепата на Bitwarden."
+    "message": "Благодарим ви за подкрепата на Greenwarden."
   },
   "premiumPrice": {
     "message": "И това само за $PRICE$ на година!",
@@ -850,7 +850,7 @@
     "message": "Собствена среда"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Укажете базовия адрес за собствената ви инсталирана среда на Bitwarden."
+    "message": "Укажете базовия адрес за собствената ви инсталирана среда на Greenwarden."
   },
   "customEnvironment": {
     "message": "Специална среда"
@@ -1232,7 +1232,7 @@
     "message": "Слаба главна парола"
   },
   "weakMasterPasswordDesc": {
-    "message": "Зададената главна парола е твърде слаба. Главната парола трябва да е силна. Добре е да ползвате цяла фраза за парола, за да защитите данните в трезора в Bitwarden. Уверени ли сте, че искате да ползвате слаба парола?"
+    "message": "Зададената главна парола е твърде слаба. Главната парола трябва да е силна. Добре е да ползвате цяла фраза за парола, за да защитите данните в трезора в Greenwarden. Уверени ли сте, че искате да ползвате слаба парола?"
   },
   "pin": {
     "message": "ПИН",
@@ -1242,7 +1242,7 @@
     "message": "Отключване с ПИН"
   },
   "setYourPinCode": {
-    "message": "Задайте ПИН за отключване на Bitwarden. Настройките за ПИН се изчистват при всяко пълно излизане от програмата."
+    "message": "Задайте ПИН за отключване на Greenwarden. Настройките за ПИН се изчистват при всяко пълно излизане от програмата."
   },
   "pinRequired": {
     "message": "Необходим е ПИН."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Заключване с главната парола при повторно пускане на браузъра"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

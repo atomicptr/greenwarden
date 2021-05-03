@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Gratis wachtwoordbeheer",
@@ -191,7 +191,7 @@
     "message": "Automatisch sterke, unieke wachtwoorden voor je logins genereren."
   },
   "bitWebVault": {
-    "message": "Bitwarden Webkluis"
+    "message": "Greenwarden Webkluis"
   },
   "importItems": {
     "message": "Items importeren"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Moet Bitwarden dit wachtwoord voor je onthouden?"
+    "message": "Moet Greenwarden dit wachtwoord voor je onthouden?"
   },
   "notificationAddSave": {
     "message": "Ja, nu opslaan"
@@ -564,7 +564,7 @@
     "message": "De \"Melding gewijzigd wachtwoord\" stelt automatisch voor om een wachtwoord in je kluis bij te werken wanneer het op een website is gewijzigd."
   },
   "notificationChangeDesc": {
-    "message": "Wilt je dit wachtwoord in Bitwarden bijwerken?"
+    "message": "Wilt je dit wachtwoord in Greenwarden bijwerken?"
   },
   "notificationChangeSave": {
     "message": "Ja, nu bijwerken"
@@ -625,7 +625,7 @@
     "message": "Kluis delen"
   },
   "shareVaultConfirmation": {
-    "message": "Met een organisatie-account kunt je jeBitwarden-kluis delen met anderen. Wil je de website bitwarden.com bezoeken voor meer informatie?"
+    "message": "Met een organisatie-account kunt je jeGreenwarden-kluis delen met anderen. Wil je de website bitwarden.com bezoeken voor meer informatie?"
   },
   "shareItem": {
     "message": "Item delen"
@@ -733,7 +733,7 @@
     "message": "Je bent Premium-lid!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Bedankt voor het ondersteunen van Bitwarden."
+    "message": "Bedankt voor het ondersteunen van Greenwarden."
   },
   "premiumPrice": {
     "message": "Dit alles voor slechts $PRICE$ per jaar!",
@@ -850,7 +850,7 @@
     "message": "Zelfgehoste omgeving"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Geef de basis-URL van jouw zelfgehoste Bitwarden-installatie."
+    "message": "Geef de basis-URL van jouw zelfgehoste Greenwarden-installatie."
   },
   "customEnvironment": {
     "message": "Aangepaste omgeving"
@@ -1232,7 +1232,7 @@
     "message": "Zwak hoofdwachtwoord"
   },
   "weakMasterPasswordDesc": {
-    "message": "Je hebt een zwak hoofdwachtwoord gekozen. Gebruik een sterk hoofdwachtwoord (of wachtwoordzin) om jouw Bitwarden-account goed te beschermen. Weet je zeker dat je dit hoofdwachtwoord wilt gebruiken?"
+    "message": "Je hebt een zwak hoofdwachtwoord gekozen. Gebruik een sterk hoofdwachtwoord (of wachtwoordzin) om jouw Greenwarden-account goed te beschermen. Weet je zeker dat je dit hoofdwachtwoord wilt gebruiken?"
   },
   "pin": {
     "message": "PIN-code",
@@ -1242,7 +1242,7 @@
     "message": "Ontgrendelen met PIN"
   },
   "setYourPinCode": {
-    "message": "Stel je PIN-code in voor het ontgrendelen van Bitwarden. Je PIN-code wordt opnieuw ingesteld als je je ooit volledig afmeldt bij de applicatie."
+    "message": "Stel je PIN-code in voor het ontgrendelen van Greenwarden. Je PIN-code wordt opnieuw ingesteld als je je ooit volledig afmeldt bij de applicatie."
   },
   "pinRequired": {
     "message": "PIN-code is vereist."
@@ -1263,7 +1263,7 @@
     "message": "Wacht op bevestiging van de desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Bevestig het gebruik van biometrie in de Bitwarden-desktopapplicatie om biometrie voor de browser in te schakelen."
+    "message": "Bevestig het gebruik van biometrie in de Greenwarden-desktopapplicatie om biometrie voor de browser in te schakelen."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Vergrendelen met hoofdwachtwoord bij herstart browser"
@@ -1400,13 +1400,13 @@
     "message": "Browserintegratie is niet ingeschakeld"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browserintegratie is niet ingeschakeld in de Bitwarden-desktopapplicatie. Schakel deze optie in de instellingen binnen de desktop-applicatie in."
+    "message": "Browserintegratie is niet ingeschakeld in de Greenwarden-desktopapplicatie. Schakel deze optie in de instellingen binnen de desktop-applicatie in."
   },
   "startDesktopTitle": {
-    "message": "Bitwarden-desktopapplicatie opstarten"
+    "message": "Greenwarden-desktopapplicatie opstarten"
   },
   "startDesktopDesc": {
-    "message": "Je moet de Bitwarden-desktopapplicatie starten om deze functie te gebruiken."
+    "message": "Je moet de Greenwarden-desktopapplicatie starten om deze functie te gebruiken."
   },
   "errorEnableBiometricTitle": {
     "message": "Kon biometrie niet inschakelen"
@@ -1442,7 +1442,7 @@
     "message": "Toestemming niet verleend"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Zonder toestemming om te communiceren met de Bitwarden Desktop-applicatie, kunnen we biometrisch inloggen in de browserextensie niet leveren. Probeer het opnieuw."
+    "message": "Zonder toestemming om te communiceren met de Greenwarden Desktop-applicatie, kunnen we biometrisch inloggen in de browserextensie niet leveren. Probeer het opnieuw."
   },
   "personalOwnershipSubmitError": {
     "message": "Wegens bedrijfsbeleid mag je geen wachtwoorden opslaan in je persoonlijke kluis. Verander het eigenaarschap naar een organisatie en kies uit een van de beschikbare collecties."

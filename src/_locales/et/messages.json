@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden - Tasuta paroolihaldur",
@@ -191,7 +191,7 @@
     "message": "Loo oma kontodele tugevaid ja unikaalseid paroole."
   },
   "bitWebVault": {
-    "message": "Bitwardeni Veebihoidla"
+    "message": "Greenwardeni Veebihoidla"
   },
   "importItems": {
     "message": "Impordi andmed"
@@ -526,7 +526,7 @@
     "message": "Keela \"Lisa konto andmed\" märguanne"
   },
   "addLoginNotificationDesc": {
-    "message": "\"Lisa konto andmed\" märguanne ilmub pärast esimest sisselogimist ning võimaldab Sul kontoandmeid automaatselt Bitwardenisse lisada."
+    "message": "\"Lisa konto andmed\" märguanne ilmub pärast esimest sisselogimist ning võimaldab Sul kontoandmeid automaatselt Greenwardenisse lisada."
   },
   "dontShowCardsCurrentTab": {
     "message": "Ära kuva \"Kaart\" vaates krediitkaardi andmeid"
@@ -561,10 +561,10 @@
     "message": "Keela Muudetud parooli teavitus"
   },
   "disableChangedPasswordNotificationDesc": {
-    "message": "Kui mistahes veebilehel on toimunud parooli vahetamine, annab \"Muudetud parooli teavitus\" sulle märku, et vahetaksid selle ära ka Bitwardeni paroolihoidlas."
+    "message": "Kui mistahes veebilehel on toimunud parooli vahetamine, annab \"Muudetud parooli teavitus\" sulle märku, et vahetaksid selle ära ka Greenwardeni paroolihoidlas."
   },
   "notificationChangeDesc": {
-    "message": "Soovid seda parooli ka Bitwardenis uuendada?"
+    "message": "Soovid seda parooli ka Greenwardenis uuendada?"
   },
   "notificationChangeSave": {
     "message": "Jah, uuenda"
@@ -625,7 +625,7 @@
     "message": "Jaga oma hoidlat"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwardeniga saad oma hoidlat teistega jagada, kasutades selleks organisatsiooni kontot. Kas soovid selle kohta lisateavet ja avada bitwarden.com veebilehe?"
+    "message": "Greenwardeniga saad oma hoidlat teistega jagada, kasutades selleks organisatsiooni kontot. Kas soovid selle kohta lisateavet ja avada bitwarden.com veebilehe?"
   },
   "shareItem": {
     "message": "Jaga kirjet"
@@ -727,13 +727,13 @@
     "message": "Osta Premium"
   },
   "premiumPurchaseAlert": {
-    "message": "Bitwardeni premium versiooni saab osta bitwarden.com veebihoidlas. Avan veebihoidla?"
+    "message": "Greenwardeni premium versiooni saab osta bitwarden.com veebihoidlas. Avan veebihoidla?"
   },
   "premiumCurrentMember": {
     "message": "Oled premium kasutaja!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Täname, et toetad Bitwardenit."
+    "message": "Täname, et toetad Greenwardenit."
   },
   "premiumPrice": {
     "message": "Kõik see ainult %price% aastas!",
@@ -850,7 +850,7 @@
     "message": "Self-hosted Environment"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Specify the base URL of your on-premise hosted Bitwarden installation."
+    "message": "Specify the base URL of your on-premise hosted Greenwarden installation."
   },
   "customEnvironment": {
     "message": "Kohandatud keskkond"
@@ -1232,7 +1232,7 @@
     "message": "Nõrk ülemparool"
   },
   "weakMasterPasswordDesc": {
-    "message": "Valitud ülemparool on nõrk. Oma Bitwardeni konto paremaks kaitsmiseks peaksid kasutama tugevat parooli. Oled kindel, et soovid seda parooli ülemparoolina kasutada?"
+    "message": "Valitud ülemparool on nõrk. Oma Greenwardeni konto paremaks kaitsmiseks peaksid kasutama tugevat parooli. Oled kindel, et soovid seda parooli ülemparoolina kasutada?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Ava PIN-iga"
   },
   "setYourPinCode": {
-    "message": "Määra Bitwardeni lahtilukustamiseks PIN kood. Rakendusest täielikult välja logides nullitakse ka PIN koodi seaded."
+    "message": "Määra Greenwardeni lahtilukustamiseks PIN kood. Rakendusest täielikult välja logides nullitakse ka PIN koodi seaded."
   },
   "pinRequired": {
     "message": "Nõutakse PIN koodi."
@@ -1263,7 +1263,7 @@
     "message": "Kinnituse ootamine töölaua rakenduselt"
   },
   "awaitDesktopDesc": {
-    "message": "Kinnitamiseks kasuta biomeetrilist lahtilukustamist Bitwardeni töölaua rakenduses."
+    "message": "Kinnitamiseks kasuta biomeetrilist lahtilukustamist Greenwardeni töölaua rakenduses."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Nõua ülemparooli, kui brauser taaskäivitatakse"
@@ -1400,13 +1400,13 @@
     "message": "Brauseri integratsioon ei ole sisse lülitatud"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Brauseri integratsioon ei ole Bitwardeni töölaua rakenduses sisse lülitatud. Palun lülita see töölaua rakenduse seadetes sisse."
+    "message": "Brauseri integratsioon ei ole Greenwardeni töölaua rakenduses sisse lülitatud. Palun lülita see töölaua rakenduse seadetes sisse."
   },
   "startDesktopTitle": {
-    "message": "Käivita Bitwardeni töölaua rakendus"
+    "message": "Käivita Greenwardeni töölaua rakendus"
   },
   "startDesktopDesc": {
-    "message": "Enne selle funktsiooni sisselülitamist peab käivitama Bitwardeni töölaua rakenduse."
+    "message": "Enne selle funktsiooni sisselülitamist peab käivitama Greenwardeni töölaua rakenduse."
   },
   "errorEnableBiometricTitle": {
     "message": "Biomeetria sisselülitamine nurjus"
@@ -1430,7 +1430,7 @@
     "message": "Biomeetria ei ole sisse lülitatud"
   },
   "biometricsNotEnabledDesc": {
-    "message": "Biomeetria kasutamiseks brauseris peab esmalt Bitwardeni töölaua rakenduse seadetes biomeetria lubama."
+    "message": "Biomeetria kasutamiseks brauseris peab esmalt Greenwardeni töölaua rakenduse seadetes biomeetria lubama."
   },
   "biometricsNotSupportedTitle": {
     "message": "Biomeetriat ei toetata"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Ettevõtte poliitika tõttu ei saa sa andmeid oma personaalsesse Hoidlasse salvestada. Vali Omanikuks organisatsioon ja vali mõni saadavaolevatest Kogumikest."

@@ -1,6 +1,6 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden – бясплатны менеджар пароляў",
@@ -142,7 +142,7 @@
     "message": "Выйсці"
   },
   "about": {
-    "message": "Пра Bitwarden"
+    "message": "Пра Greenwarden"
   },
   "version": {
     "message": "Версія"
@@ -191,7 +191,7 @@
     "message": "Аўтаматычна ствараць моцныя, унікальныя паролі для вашых уліковых даных."
   },
   "bitWebVault": {
-    "message": "Вэб-сховішча Bitwarden"
+    "message": "Вэб-сховішча Greenwarden"
   },
   "importItems": {
     "message": "Імпарт элементаў"
@@ -320,7 +320,7 @@
       },
       "hostname": {
         "content": "$2",
-        "example": "bitwarden.com"
+        "example": "Bitwarden.com"
       }
     }
   },
@@ -446,10 +446,10 @@
     "message": "Змяніць асноўны пароль"
   },
   "changeMasterPasswordConfirmation": {
-    "message": "Вы можаце змяніць свой асноўны пароль на bitwarden.com. Перайсці на сайт зараз?"
+    "message": "Вы можаце змяніць свой асноўны пароль на Bitwarden.com. Перайсці на сайт зараз?"
   },
   "twoStepLoginConfirmation": {
-    "message": "Двухэтапны ўваход робіць ваш уліковы запіс больш бяспечным, патрабуючы пацвярджэння ўваходу на іншай прыладзе, напрыклад, ключом бяспекі, праграмай для праверкі бяспекі, SMS, тэлефонным выклікам або электроннай поштай. Двухэтапны ўваход уключаецца на bitwarden.com. Перайсці на сайт зараз?"
+    "message": "Двухэтапны ўваход робіць ваш уліковы запіс больш бяспечным, патрабуючы пацвярджэння ўваходу на іншай прыладзе, напрыклад, ключом бяспекі, праграмай для праверкі бяспекі, SMS, тэлефонным выклікам або электроннай поштай. Двухэтапны ўваход уключаецца на Bitwarden.com. Перайсці на сайт зараз?"
   },
   "editedFolder": {
     "message": "Папка адрэдагавана"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Ці павінен Bitwarden запомніць гэты пароль?"
+    "message": "Ці павінен Greenwarden запомніць гэты пароль?"
   },
   "notificationAddSave": {
     "message": "Так, захаваць зараз"
@@ -564,7 +564,7 @@
     "message": "Апавяшчэнне аб змяненні пароля аўтаматычна прапануе вам абнавіць пароль уваходу ў сховішча, калі выявіць, што вы змянілі яго на вэб-сайце."
   },
   "notificationChangeDesc": {
-    "message": "Вы хочаце абнавіць гэты пароль у Bitwarden?"
+    "message": "Вы хочаце абнавіць гэты пароль у Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Так, абнавіць зараз"
@@ -625,7 +625,7 @@
     "message": "Абагуліць ваша сховішча"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden дазваляе абагуліць сваё сховішча з іншымі карыстальнікамі, выкарыстоўваючы ўліковы запіс арганізацыі. Хочаце наведаць сайт bitwarden.com, каб даведацца больш?"
+    "message": "Greenwarden дазваляе абагуліць сваё сховішча з іншымі карыстальнікамі, выкарыстоўваючы ўліковы запіс арганізацыі. Хочаце наведаць сайт Bitwarden.com, каб даведацца больш?"
   },
   "shareItem": {
     "message": "Абагуліць элемент"
@@ -694,7 +694,7 @@
     "message": "Кіраванне статусам"
   },
   "premiumManageAlert": {
-    "message": "Вы можаце кіраваць сваім статусам на bitwarden.com. Перайсці на сайт зараз?"
+    "message": "Вы можаце кіраваць сваім статусам на Bitwarden.com. Перайсці на сайт зараз?"
   },
   "premiumRefresh": {
     "message": "Абнавіць статус"
@@ -727,13 +727,13 @@
     "message": "Купіць прэміяльны статус"
   },
   "premiumPurchaseAlert": {
-    "message": "Вы можаце купіць прэміяльны статус на bitwarden.com. Перайсці на сайт зараз?"
+    "message": "Вы можаце купіць прэміяльны статус на Bitwarden.com. Перайсці на сайт зараз?"
   },
   "premiumCurrentMember": {
     "message": "У вас прэміяльны статус!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Дзякуем вам за падтрымку Bitwarden."
+    "message": "Дзякуем вам за падтрымку Greenwarden."
   },
   "premiumPrice": {
     "message": "Усяго толькі за $PRICE$ на год!",
@@ -931,7 +931,7 @@
     "message": "Лагічнае"
   },
   "popup2faCloseMessage": {
-    "message": "Націск за межамі гэтага акна для прагляду кода праверкі з электроннай пошты прывядзе да яго закрыцця. Адкрыць bitwarden у новым акне?"
+    "message": "Націск за межамі гэтага акна для прагляду кода праверкі з электроннай пошты прывядзе да яго закрыцця. Адкрыць Greenwarden у новым акне?"
   },
   "popupU2fCloseMessage": {
     "message": "Гэты браўзар не можа апрацоўваць запыты U2F у гэтым усплывальным акне. Вы хочаце адкрыць гэта ўсплывальнае акно ў новым акне, каб мець магчымасць увайсці ў сістэму, выкарыстоўваючы U2F?"
@@ -1232,7 +1232,7 @@
     "message": "Слабы асноўны пароль"
   },
   "weakMasterPasswordDesc": {
-    "message": "Асноўны пароль, выбраны вамі, з'яўляецца слабым. Для належнай абароны ўліковага запісу Bitwarden, вы павінны выкарыстоўваць моцны асноўны пароль (або парольную фразу). Вы ўпэўнены, што хочаце выкарыстоўваць гэты асноўны пароль?"
+    "message": "Асноўны пароль, выбраны вамі, з'яўляецца слабым. Для належнай абароны ўліковага запісу Greenwarden, вы павінны выкарыстоўваць моцны асноўны пароль (або парольную фразу). Вы ўпэўнены, што хочаце выкарыстоўваць гэты асноўны пароль?"
   },
   "pin": {
     "message": "PIN-код",
@@ -1242,7 +1242,7 @@
     "message": "Разблакіраваць PIN-кодам"
   },
   "setYourPinCode": {
-    "message": "Задайце PIN-код для разблакіроўкі Bitwarden. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
+    "message": "Задайце PIN-код для разблакіроўкі Greenwarden. Налады PIN-кода будуць скінуты, калі вы калі-небудзь цалкам выйдзеце з праграмы."
   },
   "pinRequired": {
     "message": "Патрабуецца PIN-код."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Блакіраваць асноўным паролем пры перазапуску браўзера"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."

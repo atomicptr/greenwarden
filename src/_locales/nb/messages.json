@@ -1,13 +1,13 @@
 {
   "appName": {
-    "message": "Bitwarden"
+    "message": "Greenwarden"
   },
   "extName": {
     "message": "Greenwarden — Fri passordbehandling",
     "description": "Extension name"
   },
   "extDesc": {
-    "message": "Bitwarden er en sikker og fri passordbehandler for alle dine PCer og mobiler.",
+    "message": "Greenwarden er en sikker og fri passordbehandler for alle dine PCer og mobiler.",
     "description": "Extension description"
   },
   "loginOrCreateNewAccount": {
@@ -191,7 +191,7 @@
     "message": "Generer automatisk sterke og unike passord for dine innlogginger."
   },
   "bitWebVault": {
-    "message": "Bitwarden netthvelv"
+    "message": "Greenwarden netthvelv"
   },
   "importItems": {
     "message": "Importer gjenstander"
@@ -549,7 +549,7 @@
     "description": "Clipboard is the operating system thing where you copy/paste data to on your device."
   },
   "notificationAddDesc": {
-    "message": "Skal Bitwarden huske på dette passordet for deg?"
+    "message": "Skal Greenwarden huske på dette passordet for deg?"
   },
   "notificationAddSave": {
     "message": "Ja, lagre nå"
@@ -564,7 +564,7 @@
     "message": "«Endret passord»-beskjeden spør deg automatisk om å oppdatere et innloggingspassord i hvelvet ditt, dersom den oppdager at du har endret det på et nettsted."
   },
   "notificationChangeDesc": {
-    "message": "Vil du oppdatere dette passordet i Bitwarden?"
+    "message": "Vil du oppdatere dette passordet i Greenwarden?"
   },
   "notificationChangeSave": {
     "message": "Ja, oppdater nå"
@@ -625,7 +625,7 @@
     "message": "Del hvelvet ditt"
   },
   "shareVaultConfirmation": {
-    "message": "Bitwarden lar deg dele hvelvet ditt med andre ved å bruke en organisasjonskonto. Vil du besøke bitwarden.com-nettstedet for å lære mer?"
+    "message": "Greenwarden lar deg dele hvelvet ditt med andre ved å bruke en organisasjonskonto. Vil du besøke bitwarden.com-nettstedet for å lære mer?"
   },
   "shareItem": {
     "message": "Del objektet"
@@ -733,7 +733,7 @@
     "message": "Du er et Premium-medlem!"
   },
   "premiumCurrentMemberThanks": {
-    "message": "Takk for at du støtter Bitwarden."
+    "message": "Takk for at du støtter Greenwarden."
   },
   "premiumPrice": {
     "message": "Og alt det for %price%/år!",
@@ -850,7 +850,7 @@
     "message": "Selvbetjent miljø"
   },
   "selfHostedEnvironmentFooter": {
-    "message": "Spesifiser grunn-nettadressen til din selvbetjente Bitwarden-installasjon."
+    "message": "Spesifiser grunn-nettadressen til din selvbetjente Greenwarden-installasjon."
   },
   "customEnvironment": {
     "message": "Tilpasset miljø"
@@ -1232,7 +1232,7 @@
     "message": "Svakt hovedpassord"
   },
   "weakMasterPasswordDesc": {
-    "message": "Superpassordet du har valgt er svakt. Du bør bruke et sterkt superpassord (eller en passordfrase) for å sikre Bitwarden-kontoen din på en forsvarlig måte. Er du sikker på at du vil bruke dette superpassordet?"
+    "message": "Superpassordet du har valgt er svakt. Du bør bruke et sterkt superpassord (eller en passordfrase) for å sikre Greenwarden-kontoen din på en forsvarlig måte. Er du sikker på at du vil bruke dette superpassordet?"
   },
   "pin": {
     "message": "PIN",
@@ -1242,7 +1242,7 @@
     "message": "Lås opp med PIN-kode"
   },
   "setYourPinCode": {
-    "message": "Angi PIN-koden din for å låse opp Bitwarden. PIN-innstillingene tilbakestilles hvis du logger deg helt ut av programmet."
+    "message": "Angi PIN-koden din for å låse opp Greenwarden. PIN-innstillingene tilbakestilles hvis du logger deg helt ut av programmet."
   },
   "pinRequired": {
     "message": "PIN-kode er påkrevd."
@@ -1263,7 +1263,7 @@
     "message": "Awaiting confirmation from desktop"
   },
   "awaitDesktopDesc": {
-    "message": "Please confirm using biometrics in the Bitwarden Desktop application to enable biometrics for browser."
+    "message": "Please confirm using biometrics in the Greenwarden Desktop application to enable biometrics for browser."
   },
   "lockWithMasterPassOnRestart": {
     "message": "Lås med hovedpassordet når du starter nettleseren på nytt"
@@ -1400,13 +1400,13 @@
     "message": "Browser integration is not enabled"
   },
   "desktopIntegrationDisabledDesc": {
-    "message": "Browser integration is not enabled in the Bitwarden Desktop application. Please enable it in the settings within the desktop application."
+    "message": "Browser integration is not enabled in the Greenwarden Desktop application. Please enable it in the settings within the desktop application."
   },
   "startDesktopTitle": {
-    "message": "Start the Bitwarden Desktop application"
+    "message": "Start the Greenwarden Desktop application"
   },
   "startDesktopDesc": {
-    "message": "The Bitwarden Desktop application needs to be started before this function can be used."
+    "message": "The Greenwarden Desktop application needs to be started before this function can be used."
   },
   "errorEnableBiometricTitle": {
     "message": "Unable to enable biometrics"
@@ -1442,7 +1442,7 @@
     "message": "Permission not provided"
   },
   "nativeMessaginPermissionErrorDesc": {
-    "message": "Without permission to communicate with the Bitwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
+    "message": "Without permission to communicate with the Greenwarden Desktop Application we cannot provide biometrics in the browser extension. Please try again."
   },
   "personalOwnershipSubmitError": {
     "message": "Due to an Enterprise Policy, you are restricted from saving items to your personal vault. Change the Ownership option to an organization and choose from available Collections."
